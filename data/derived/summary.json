@@ -1,0 +1,199 @@
+{
+ "statsbomb": {
+  "matches": 3961,
+  "matches_360": 425,
+  "corners": 38799,
+  "corners_360": 2468,
+  "shots": 100864,
+  "competitions": 80
+ },
+ "wyscout": {
+  "matches": 1941,
+  "corners": 19316
+ },
+ "skillcorner": {
+  "matches": 20,
+  "corners": 109,
+  "corners_valid_keeper": 109,
+  "gk_crossed_halfway": 0,
+  "gk_dist_own_goal_median": 33.2,
+  "att_in_box_mean": 5.68,
+  "ball_in_def_third_s_median": 19.2
+ },
+ "sportec": {
+  "matches": 7,
+  "corners": 47,
+  "corners_valid_keeper": 34,
+  "gk_crossed_halfway": 1,
+  "gk_dist_own_goal_median": 37.1,
+  "att_in_box_mean": 4.96,
+  "ball_in_def_third_s_median": 21.0
+ },
+ "gk_up_candidates": {
+  "total": 90,
+  "plausible_late": 60,
+  "statsbomb": 73,
+  "wyscout": 17
+ },
+ "statsbomb_rates": {
+  "all": {
+   "n": 38635,
+   "goal_in_possession_pct": 3.7,
+   "xg_in_possession": 0.0393,
+   "goal_60s_pct": 4.8,
+   "opp_shot_60s_pct": 5.35,
+   "opp_goal_60s_pct": 0.69,
+   "opp_goal_60s_ci": [
+    0.61,
+    0.78
+   ],
+   "counter_reached_final_third_pct": 31.83
+  },
+  "late85": {
+   "n": 4132,
+   "goal_in_possession_pct": 3.51,
+   "xg_in_possession": 0.0404,
+   "goal_60s_pct": 4.82,
+   "opp_shot_60s_pct": 5.64,
+   "opp_goal_60s_pct": 0.97,
+   "opp_goal_60s_ci": [
+    0.71,
+    1.32
+   ],
+   "counter_reached_final_third_pct": 29.31
+  },
+  "late85_trailing1": {
+   "n": 985,
+   "goal_in_possession_pct": 4.16,
+   "xg_in_possession": 0.0479,
+   "goal_60s_pct": 5.38,
+   "opp_shot_60s_pct": 4.97,
+   "opp_goal_60s_pct": 0.81,
+   "opp_goal_60s_ci": [
+    0.41,
+    1.59
+   ],
+   "counter_reached_final_third_pct": 27.21
+  },
+  "late85_trailing": {
+   "n": 1711,
+   "goal_in_possession_pct": 3.86,
+   "xg_in_possession": 0.046,
+   "goal_60s_pct": 5.08,
+   "opp_shot_60s_pct": 6.9,
+   "opp_goal_60s_pct": 1.81,
+   "opp_goal_60s_ci": [
+    1.28,
+    2.56
+   ],
+   "counter_reached_final_third_pct": 28.58
+  },
+  "late85_level": {
+   "n": 1049,
+   "goal_in_possession_pct": 3.72,
+   "xg_in_possession": 0.0451,
+   "goal_60s_pct": 5.43,
+   "opp_shot_60s_pct": 5.24,
+   "opp_goal_60s_pct": 0.48,
+   "opp_goal_60s_ci": [
+    0.2,
+    1.11
+   ],
+   "counter_reached_final_third_pct": 31.94
+  }
+ },
+ "wyscout_rates": {
+  "all": {
+   "n": 19284,
+   "goal_30s_pct": 3.76,
+   "opp_goal_60s_pct": 0.76,
+   "opp_goal_60s_ci": [
+    0.64,
+    0.89
+   ]
+  },
+  "late85": {
+   "n": 1907,
+   "goal_30s_pct": 3.57,
+   "opp_goal_60s_pct": 1.42,
+   "opp_goal_60s_ci": [
+    0.97,
+    2.05
+   ]
+  },
+  "late85_trailing": {
+   "n": 833,
+   "goal_30s_pct": 3.6,
+   "opp_goal_60s_pct": 2.16,
+   "opp_goal_60s_ci": [
+    1.37,
+    3.39
+   ]
+  }
+ },
+ "att_in_box": {
+  "3": {
+   "n": 50,
+   "xg_poss": 0.03,
+   "goal_pct": 4.0
+  },
+  "4": {
+   "n": 195,
+   "xg_poss": 0.0447,
+   "goal_pct": 3.59
+  },
+  "5": {
+   "n": 851,
+   "xg_poss": 0.0437,
+   "goal_pct": 4.94
+  },
+  "6": {
+   "n": 866,
+   "xg_poss": 0.047,
+   "goal_pct": 3.46
+  },
+  "7": {
+   "n": 220,
+   "xg_poss": 0.0526,
+   "goal_pct": 2.73
+  },
+  "8": {
+   "n": 37,
+   "xg_poss": 0.0524,
+   "goal_pct": 0.0
+  }
+ },
+ "shots_by_gk_distance": {
+  "[0, 6)": {
+   "n": 91232,
+   "goal_pct": 8.92,
+   "mean_xg": 0.085,
+   "goals_over_xg": 1.05
+  },
+  "[6, 12)": {
+   "n": 7024,
+   "goal_pct": 24.25,
+   "mean_xg": 0.219,
+   "goals_over_xg": 1.11
+  },
+  "[12, 20)": {
+   "n": 1178,
+   "goal_pct": 26.06,
+   "mean_xg": 0.237,
+   "goals_over_xg": 1.1
+  },
+  "[20, 30)": {
+   "n": 174,
+   "goal_pct": 29.31,
+   "mean_xg": 0.179,
+   "goals_over_xg": 1.64
+  },
+  "[30, 200)": {
+   "n": 38,
+   "goal_pct": 23.68,
+   "mean_xg": 0.16,
+   "goals_over_xg": 1.48
+  }
+ },
+ "shots_no_gk_in_frame": 102
+}

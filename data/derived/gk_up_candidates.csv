@@ -1,0 +1,91 @@
+source,match_id,competition,team,opponent,period,minute,score_diff,channel,goal_30s,opp_goal_60s,gk_x,has360,season,plausible
+statsbomb,3913113,FA Women's Super League,Arsenal WFC,Tottenham Hotspur Women,2,102,-1,counter_shot;,0,0,,0.0,2023/2024,1
+statsbomb,3913086,FA Women's Super League,West Ham United LFC,Bristol City WFC,2,97,-1,event;,0,0,,0.0,2023/2024,1
+statsbomb,3857284,FIFA World Cup,Germany,Japan,2,97,-1,360;,0,0,108.1,1.0,2022,1
+statsbomb,3895292,1. Bundesliga,Union Berlin,Bayer Leverkusen,2,96,-1,event;,0,0,,1.0,2023/2024,1
+statsbomb,3895292,1. Bundesliga,Union Berlin,Bayer Leverkusen,2,96,-1,360;event;,0,0,112.4,1.0,2023/2024,1
+statsbomb,3942852,Copa America,Uruguay,Colombia,2,96,-1,counter_shot;,0,0,,0.0,2024,1
+statsbomb,3901257,Ligue 1,Saint-Étienne,Lille,2,96,-1,event;,0,0,,0.0,2015/2016,1
+statsbomb,3881509,NWSL,Portland Thorns,Angel City,2,96,-1,event;,1,0,,0.0,2023,1
+statsbomb,3938639,UEFA Euro,Georgia,Turkey,2,96,-1,counter_shot;,0,1,,0.0,2024,1
+statsbomb,3938639,UEFA Euro,Georgia,Turkey,2,96,-1,counter_shot;,0,1,,0.0,2024,1
+statsbomb,3795107,UEFA Euro,Belgium,Italy,2,96,-1,360;,0,0,111.2,1.0,2020,1
+statsbomb,3773660,La Liga,Levante UD,Barcelona,2,95,-1,360;event;,0,0,110.8,1.0,2020/2021,1
+statsbomb,3754226,Premier League,Sunderland,Liverpool,2,95,-1,event;,0,0,,0.0,2015/2016,1
+statsbomb,3753976,Premier League,Arsenal,Swansea City,2,95,-1,counter_shot;,0,0,,0.0,2015/2016,1
+statsbomb,3912512,Serie A Women,FC Internazionale Milano W,Sampdoria W,2,95,0,event;,0,0,,0.0,2023/2024,1
+statsbomb,3895232,1. Bundesliga,Bayern Munich,Bayer Leverkusen,2,94,-2,360;event;counter_shot;,0,1,105.9,1.0,2023/2024,1
+statsbomb,3857257,FIFA World Cup,Denmark,Australia,2,94,-1,360;,0,0,114.1,1.0,2022,1
+statsbomb,7579,FIFA World Cup,Portugal,Uruguay,2,94,-1,event;,0,0,,0.0,2018,1
+statsbomb,3773660,La Liga,Levante UD,Barcelona,2,94,-1,360;,0,0,109.6,1.0,2020/2021,1
+statsbomb,3910954,Liga F,Atletico Madrid W,Barcelona WFC,2,94,-1,event;,0,0,,0.0,2023/2024,1
+statsbomb,3754319,Premier League,Swansea City,Manchester United,2,94,-1,event;,0,0,,0.0,2015/2016,1
+statsbomb,3879740,Serie A,Empoli,Frosinone,2,94,-1,event;,0,0,,0.0,2015/2016,1
+statsbomb,3941022,UEFA Euro,Austria,Turkey,2,94,-1,360;,0,0,113.6,1.0,2024,1
+statsbomb,3835341,UEFA Women's Euro,Italy Women's,Belgium Women's,2,94,-1,counter_shot;,0,0,,1.0,2022,1
+statsbomb,3835341,UEFA Women's Euro,Italy Women's,Belgium Women's,2,94,-1,counter_shot;,0,0,,1.0,2022,1
+statsbomb,3895275,1. Bundesliga,Freiburg,Bayer Leverkusen,2,93,-1,360;,0,0,111.5,1.0,2023/2024,1
+statsbomb,3857257,FIFA World Cup,Denmark,Australia,2,93,-1,360;,0,0,114.1,1.0,2022,1
+statsbomb,3901207,Ligue 1,Nantes,Stade de Reims,2,93,-1,counter_shot;,0,0,,0.0,2015/2016,1
+statsbomb,7479,NWSL,Washington Spirit,Orlando Pride,2,93,-1,event;,0,0,,0.0,2018,1
+statsbomb,7485,NWSL,OL Reign,Chicago Red Stars,2,93,-1,event;,0,0,,0.0,2018,1
+statsbomb,3749603,Premier League,Fulham,Arsenal,2,93,-1,counter_shot;,0,0,,0.0,2003/2004,1
+statsbomb,3878550,Serie A,Bologna,Sassuolo,2,93,-1,event;,0,0,,0.0,2015/2016,1
+statsbomb,3835341,UEFA Women's Euro,Italy Women's,Belgium Women's,2,93,-1,counter_shot;,0,0,,1.0,2022,1
+statsbomb,3893832,Women's World Cup,Brazil Women's,Jamaica Women's,2,93,0,360;,0,0,102.7,1.0,2023,1
+statsbomb,7534,FIFA World Cup,Germany,Mexico,2,92,-1,event;,0,0,,0.0,2018,1
+statsbomb,3825718,La Liga,Real Madrid,Valencia,2,92,0,counter_shot;,0,0,,0.0,2015/2016,1
+statsbomb,3998845,UEFA Women's Euro,WNT Finland,Norway Women's,2,92,-1,event;,0,0,,1.0,2025,1
+statsbomb,3893817,Women's World Cup,New Zealand Women's,Switzerland Women's,2,92,0,360;event;,0,0,113.5,1.0,2023,1
+statsbomb,3825718,La Liga,Real Madrid,Valencia,2,91,0,counter_shot;,0,0,,0.0,2015/2016,1
+statsbomb,70284,La Liga,Atlético Madrid,Barcelona,2,91,-1,event;,0,0,,0.0,2012/2013,1
+statsbomb,3754203,Premier League,West Ham United,Leicester City,2,91,-1,event;,0,0,,0.0,2015/2016,1
+statsbomb,69337,La Liga,Atlético Madrid,Barcelona,2,90,-1,event;,0,0,,0.0,2011/2012,1
+statsbomb,3825702,La Liga,Real Sociedad,Villarreal,2,86,-1,counter_shot;,0,1,,0.0,2015/2016,1
+statsbomb,3912512,Serie A Women,FC Internazionale Milano W,Sampdoria W,2,84,0,event;,0,0,,0.0,2023/2024,1
+statsbomb,3911538,Liga F,Madrid CFF,Athletic Club Bilbao,2,83,0,counter_shot;,0,0,,0.0,2023/2024,1
+wyscout,2058004,World_Cup,Russia,Spain,4,116,0,event;,0,0,,,,1
+wyscout,2565881,Spain,Eibar,Getafe,2,98,-1,event;,0,0,,,,1
+wyscout,2565798,Spain,Levante,Deportivo Alav\u00e9s,2,96,-1,event;,0,0,,,,1
+wyscout,2499951,England,Burnley,Manchester United,2,95,-1,event;,0,0,,,,1
+wyscout,2499996,England,Chelsea,Manchester United,2,95,-1,event;,0,0,,,,1
+wyscout,2501033,France,Toulouse,Rennes,2,94,-1,event;,0,0,,,,1
+wyscout,2565710,Spain,Valencia,Villarreal,2,94,-1,event;,0,0,,,,1
+wyscout,2058002,World_Cup,Portugal,Uruguay,2,94,-1,event;,0,0,,,,1
+wyscout,2499826,England,Swansea City,Brighton & Hove Albion,2,93,-1,event;,0,0,,,,1
+wyscout,2499997,England,Everton,Watford,2,92,-1,event;,0,0,,,,1
+wyscout,2500788,France,Nantes,Dijon,2,92,-1,event;,0,0,,,,1
+wyscout,2516995,Germany,Hertha BSC,Borussia M'gladbach,2,91,-1,event;,0,0,,,,1
+wyscout,2516809,Germany,Hannover 96,Eintracht Frankfurt,2,90,-1,event;,0,0,,,,1
+wyscout,2516809,Germany,Hannover 96,Eintracht Frankfurt,2,90,-1,event;,0,0,,,,1
+wyscout,2517014,Germany,Mainz 05,Augsburg,2,90,-1,event;,0,1,,,,1
+statsbomb,3754257,Premier League,Manchester City,Crystal Palace,2,92,1,counter_shot;,0,0,,0.0,2015/2016,0
+statsbomb,19718,FA Women's Super League,Birmingham City WFC,Everton LFC,2,89,1,counter_shot;,0,0,,0.0,2018/2019,0
+statsbomb,3775658,FA Women's Super League,Manchester City WFC,Manchester United,2,78,2,counter_shot;,0,0,,0.0,2020/2021,0
+statsbomb,2275113,FA Women's Super League,West Ham United LFC,Brighton & Hove Albion WFC,2,76,-1,counter_shot;,0,0,,0.0,2019/2020,0
+statsbomb,3900602,Ligue 1,Stade de Reims,Lorient,2,76,-2,event;,0,0,,0.0,2015/2016,0
+statsbomb,3775579,FA Women's Super League,Brighton & Hove Albion WFC,Reading WFC,2,74,-1,counter_shot;,0,0,,0.0,2020/2021,0
+statsbomb,3912491,Serie A Women,Sassuolo W,Como W,2,74,0,event;,0,0,,0.0,2023/2024,0
+statsbomb,3900602,Ligue 1,Stade de Reims,Lorient,2,69,-2,event;,0,0,,0.0,2015/2016,0
+statsbomb,3881601,NWSL,NJ/NY Gotham FC,Houston Dash,2,65,-1,counter_shot;,0,1,,0.0,2023,0
+statsbomb,9794,La Liga,Barcelona,Getafe,2,59,0,counter_shot;,0,0,,0.0,2017/2018,0
+statsbomb,9794,La Liga,Barcelona,Getafe,2,58,0,counter_shot;,0,0,,0.0,2017/2018,0
+statsbomb,3915998,NWSL,NJ/NY Gotham FC,Seattle Reign,2,58,1,event;,0,0,,0.0,2023,0
+statsbomb,3837662,Ligue 1,Paris Saint-Germain,Lille,2,57,4,360;,0,0,118.3,1.0,2022/2023,0
+statsbomb,3754203,Premier League,West Ham United,Leicester City,2,57,-1,event;,0,0,,0.0,2015/2016,0
+statsbomb,68353,La Liga,Espanyol,Barcelona,2,56,-1,counter_shot;,0,0,,0.0,2004/2005,0
+statsbomb,3910991,Liga F,Real Betis Balompié,Sevilla FC,2,50,-2,counter_shot;,0,1,,0.0,2023/2024,0
+statsbomb,19728,FA Women's Super League,Manchester City WFC,Bristol City WFC,2,49,-1,counter_shot;,0,1,,0.0,2018/2019,0
+statsbomb,3788742,UEFA Euro,Denmark,Finland,2,49,0,event;,0,0,,0.0,2020,0
+statsbomb,4018355,UEFA Women's Euro,Sweden Women's,England Women's,1,46,2,360;,0,0,119.3,1.0,2025,0
+statsbomb,3788747,UEFA Euro,Austria,North Macedonia,1,45,0,360;,0,0,120.0,1.0,2020,0
+statsbomb,3773660,La Liga,Barcelona,Levante UD,1,39,0,360;,0,0,118.9,1.0,2020/2021,0
+statsbomb,3754203,Premier League,West Ham United,Leicester City,1,39,-2,event;,0,0,,0.0,2015/2016,0
+statsbomb,3879722,Serie A,Hellas Verona,Atalanta,1,28,0,counter_shot;,0,1,,0.0,2015/2016,0
+statsbomb,3911487,Liga F,Madrid CFF,FC Levante Badalona,1,21,0,counter_shot;,0,0,,0.0,2023/2024,0
+statsbomb,3895244,1. Bundesliga,Bayer Leverkusen,FC Heidenheim,1,20,0,360;,0,0,118.2,1.0,2023/2024,0
+statsbomb,3900509,Ligue 1,Saint-Étienne,Lyon,1,16,0,event;,0,0,,0.0,2015/2016,0
+statsbomb,3878542,Serie A,AC Milan,Fiorentina,1,5,0,counter_shot;,0,0,,0.0,2015/2016,0
+statsbomb,3788765,UEFA Euro,Turkey,Switzerland,1,2,0,360;,0,0,118.5,1.0,2020,0
+wyscout,2500923,France,Rennes,Guingamp,2,49,0,event;,0,0,,,,0
+wyscout,2565820,Spain,Barcelona,M\u00e1laga,1,31,2,event;,0,0,,,,0

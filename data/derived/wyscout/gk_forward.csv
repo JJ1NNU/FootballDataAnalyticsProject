@@ -1,0 +1,157 @@
+match_id,competition,team,period,minute,event,sub_event,x,y,score_diff,red_diff
+2499729,England,Watford,1,27,Duel,Air duel,97,98,0,0
+2499731,England,Newcastle United,2,55,Duel,Air duel,54,76,-1,0
+2499731,England,Newcastle United,2,94,Free Kick,Free kick cross,57,32,-1,0
+2499739,England,Manchester City,2,60,Duel,Air duel,54,80,0,0
+2499740,England,Everton,1,9,Duel,Air duel,52,80,0,0
+2499741,England,Swansea City,2,67,Interruption,Whistle,100,100,2,0
+2499744,England,Leicester City,2,54,Pass,Launch,66,63,0,0
+2499744,England,Leicester City,2,54,Pass,Launch,93,72,0,0
+2499744,England,Manchester United,2,72,Pass,High pass,90,49,1,0
+2499744,England,Leicester City,2,94,Foul,Protest,92,50,-2,0
+2499747,England,Brighton & Hove Albion,2,49,Duel,Air duel,77,86,0,1
+2499752,England,Tottenham Hotspur,2,90,Duel,Ground loose ball duel,52,79,3,0
+2499754,England,Liverpool,2,55,Duel,Ground attacking duel,76,89,-3,-1
+2499760,England,Arsenal,1,15,Duel,Ground attacking duel,54,74,0,0
+2499777,England,Watford,2,67,Free Kick,Free Kick,93,16,0,0
+2499803,England,Crystal Palace,2,63,Others on the ball,Touch,93,63,0,0
+2499804,England,West Bromwich Albion,2,86,Pass,High pass,56,28,-1,0
+2499817,England,Stoke City,2,74,Others on the ball,Touch,92,50,1,0
+2499826,England,Swansea City,2,92,Duel,Air duel,51,35,-1,0
+2499826,England,Swansea City,2,93,Duel,Ground loose ball duel,91,56,-1,0
+2499826,England,Swansea City,2,93,Foul,Foul,93,56,-1,0
+2499839,England,Arsenal,1,34,Duel,Air duel,51,71,0,0
+2499887,England,West Bromwich Albion,1,29,Free Kick,Free kick cross,53,78,0,0
+2499887,England,West Bromwich Albion,2,83,Duel,Ground defending duel,54,80,0,0
+2499908,England,West Ham United,2,91,Free Kick,Free kick cross,54,69,-1,0
+2499915,England,Manchester City,2,62,Pass,Simple pass,98,8,1,0
+2499917,England,Leicester City,1,41,Free Kick,Free Kick,51,65,1,0
+2499951,England,Burnley,2,95,Duel,Air duel,91,43,-1,0
+2499974,England,Swansea City,2,83,Duel,Air duel,52,75,0,0
+2499974,England,Leicester City,2,92,Pass,Launch,53,89,0,0
+2499996,England,Chelsea,2,95,Duel,Air duel,90,32,-1,0
+2499997,England,Everton,2,92,Duel,Air duel,92,46,-1,0
+2500002,England,Leicester City,2,93,Foul,Protest,76,41,-1,0
+2500056,England,Swansea City,1,43,Duel,Ground defending duel,82,45,-1,0
+2500095,England,Manchester City,2,93,Foul,Out of game foul,87,87,1,0
+1694396,European_Championship,Slovakia,1,16,Duel,Ground loose ball duel,86,25,-1,0
+1694439,European_Championship,Germany,2,91,Pass,Simple pass,59,38,-2,0
+2500711,France,Guingamp,1,28,Duel,Air duel,76,88,0,0
+2500713,France,Dijon,2,83,Duel,Air duel,55,77,-1,0
+2500719,France,Metz,1,33,Duel,Air duel,76,86,0,0
+2500721,France,Strasbourg,1,29,Duel,Air duel,75,84,0,0
+2500726,France,Dijon,1,40,Duel,Ground attacking duel,89,97,0,0
+2500752,France,PSG,2,66,Duel,Ground attacking duel,90,58,0,0
+2500784,France,Saint-\u00c9tienne,2,59,Free Kick,Free Kick,89,47,-1,0
+2500788,France,Nantes,2,92,Duel,Ground loose ball duel,90,63,-1,0
+2500807,France,Olympique Marseille,2,93,Free Kick,Free Kick,51,69,-1,0
+2500808,France,Nice,2,57,Others on the ball,Touch,99,43,1,0
+2500823,France,Nantes,2,87,Duel,Air duel,51,73,0,-1
+2500836,France,Olympique Lyonnais,2,84,Duel,Air duel,51,71,2,0
+2500918,France,Lille,2,57,Pass,Simple pass,53,9,-1,0
+2500923,France,Rennes,2,49,Pass,Simple pass,90,57,0,0
+2500923,France,Guingamp,2,50,Pass,Launch,97,70,0,0
+2500923,France,Rennes,2,53,Pass,Simple pass,94,22,0,0
+2500923,France,Rennes,2,53,Others on the ball,Touch,97,49,0,0
+2500923,France,Rennes,2,54,Pass,Launch,82,42,0,0
+2500923,France,Rennes,2,57,Free Kick,Free Kick,91,43,0,0
+2500923,France,Guingamp,2,58,Duel,Ground attacking duel,99,18,0,0
+2500923,France,Guingamp,2,60,Pass,Simple pass,85,55,0,0
+2500923,France,Guingamp,2,61,Pass,High pass,95,47,0,0
+2500923,France,Rennes,2,66,Pass,Simple pass,74,47,0,0
+2500981,France,Lille,2,93,Duel,Air duel,90,68,-1,0
+2500988,France,Bordeaux,1,21,Others on the ball,Touch,65,92,0,0
+2500998,France,Lille,2,92,Free Kick,Free kick cross,57,93,-1,-1
+2501015,France,Olympique Marseille,2,90,Duel,Air duel,94,37,1,0
+2501033,France,Toulouse,2,94,Pass,Head pass,85,47,-1,1
+2501049,France,Olympique Marseille,2,65,Duel,Ground defending duel,88,52,0,0
+2516740,Germany,Werder Bremen,2,50,Duel,Air duel,88,92,0,0
+2516743,Germany,K\u00f6ln,2,93,Free Kick,Free kick cross,60,49,-1,0
+2516745,Germany,Augsburg,2,93,Shot,Shot,91,46,-1,0
+2516745,Germany,Augsburg,2,93,Duel,Ground defending duel,85,42,-1,0
+2516745,Germany,Augsburg,2,93,Foul,Foul,88,40,-1,0
+2516746,Germany,Hannover 96,2,92,Duel,Air duel,88,94,1,0
+2516748,Germany,Borussia Dortmund,2,75,Pass,Simple pass,51,49,2,0
+2516749,Germany,Freiburg,1,9,Duel,Air duel,53,74,0,0
+2516760,Germany,Eintracht Frankfurt,1,47,Duel,Air duel,53,77,1,0
+2516762,Germany,K\u00f6ln,2,55,Duel,Ground loose ball duel,93,95,-2,0
+2516771,Germany,Augsburg,2,88,Duel,Air duel,52,76,1,0
+2516774,Germany,Wolfsburg,2,83,Duel,Air duel,56,73,-1,0
+2516796,Germany,Hannover 96,2,95,Duel,Air duel,86,47,-1,0
+2516796,Germany,Hannover 96,2,95,Shot,Shot,86,49,-1,0
+2516800,Germany,Werder Bremen,2,91,Foul,Out of game foul,53,4,0,0
+2516809,Germany,Hannover 96,2,90,Others on the ball,Touch,91,44,-1,0
+2516811,Germany,Stuttgart,2,91,Duel,Air duel,87,57,-1,0
+2516831,Germany,K\u00f6ln,2,75,Free Kick,Free kick cross,57,80,-2,0
+2516886,Germany,Mainz 05,1,41,Duel,Air duel,52,73,-2,0
+2516886,Germany,Mainz 05,2,74,Duel,Air duel,53,78,-1,0
+2516917,Germany,Hannover 96,2,90,Free Kick,Free kick cross,54,74,-1,0
+2516924,Germany,Augsburg,2,66,Free Kick,Free Kick,93,53,1,0
+2516944,Germany,Hamburger SV,2,94,Duel,Air duel,80,64,-1,0
+2516955,Germany,RB Leipzig,2,45,Pass,Simple pass,91,36,0,0
+2516980,Germany,Hertha BSC,2,47,Foul,Protest,63,3,-1,0
+2516989,Germany,RB Leipzig,2,46,Pass,Hand pass,88,55,1,0
+2516989,Germany,RB Leipzig,2,47,Pass,Simple pass,91,43,1,0
+2516989,Germany,RB Leipzig,2,47,Pass,Simple pass,86,44,1,0
+2516989,Germany,RB Leipzig,2,55,Free Kick,Free Kick,87,52,2,0
+2516989,Germany,RB Leipzig,2,57,Free Kick,Free Kick,81,4,2,0
+2516989,Germany,RB Leipzig,2,57,Pass,Hand pass,85,57,2,0
+2516989,Germany,RB Leipzig,2,60,Others on the ball,Touch,92,48,2,0
+2516989,Germany,RB Leipzig,2,66,Pass,High pass,78,39,2,0
+2516989,Germany,RB Leipzig,2,72,Free Kick,Free Kick,95,88,1,0
+2516989,Germany,RB Leipzig,2,75,Free Kick,Free Kick,73,75,1,0
+2516989,Germany,RB Leipzig,2,82,Free Kick,Free Kick,87,51,1,0
+2516989,Germany,RB Leipzig,2,87,Pass,High pass,86,36,1,0
+2516989,Germany,RB Leipzig,2,90,Pass,Launch,87,47,1,0
+2516995,Germany,Hertha BSC,2,91,Shot,Shot,92,55,-1,0
+2517001,Germany,Hamburger SV,2,54,Pass,Smart pass,70,19,-2,0
+2517014,Germany,Mainz 05,2,90,Pass,High pass,51,49,-1,0
+2517014,Germany,Mainz 05,2,90,Duel,Ground loose ball duel,89,68,-1,0
+2517015,Germany,Freiburg,2,93,Shot,Shot,87,48,-1,-1
+2517016,Germany,Bayern M\u00fcnchen,1,2,Duel,Air duel,94,50,0,0
+2575960,Italy,Torino,2,82,Duel,Air duel,53,77,0,0
+2575969,Italy,Bologna,2,57,Duel,Ground loose ball duel,76,86,1,0
+2575983,Italy,Fiorentina,1,33,Duel,Air duel,52,76,3,0
+2575984,Italy,SPAL,1,15,Others on the ball,Acceleration,95,24,0,0
+2575988,Italy,Genoa,2,52,Duel,Ground loose ball duel,95,97,-1,-1
+2575989,Italy,Atalanta,1,31,Duel,Air duel,52,78,0,0
+2575997,Italy,Cagliari,1,34,Duel,Air duel,76,88,1,0
+2576045,Italy,Crotone,1,0,Pass,Simple pass,67,32,0,0
+2576084,Italy,Lazio,2,94,Free Kick,Free kick cross,61,94,-1,0
+2576099,Italy,Benevento,2,94,Duel,Air duel,91,48,-1,1
+2576099,Italy,Benevento,2,94,Shot,Shot,92,49,-1,1
+2576141,Italy,Bologna,2,95,Duel,Air duel,90,51,-1,0
+2576146,Italy,Sassuolo,2,72,Free Kick,Free Kick,88,41,-1,0
+2576169,Italy,Atalanta,2,80,Duel,Ground loose ball duel,53,80,1,0
+2576195,Italy,Fiorentina,2,90,Free Kick,Free Kick,76,50,-2,0
+2576200,Italy,Crotone,2,93,Pass,Simple pass,65,14,-1,0
+2576227,Italy,Atalanta,2,92,Pass,High pass,53,18,-1,0
+2576270,Italy,Crotone,2,94,Pass,High pass,58,94,-1,0
+2576317,Italy,Sassuolo,2,52,Duel,Ground attacking duel,89,59,0,0
+2565553,Spain,Eibar,1,38,Duel,Ground attacking duel,54,72,0,0
+2565560,Spain,Legan\u00e9s,2,92,Duel,Air duel,77,90,1,0
+2565576,Spain,Las Palmas,1,46,Duel,Air duel,54,78,1,0
+2565579,Spain,Sevilla,2,80,Duel,Ground loose ball duel,51,68,1,0
+2565612,Spain,Celta de Vigo,2,91,Free Kick,Free Kick,51,45,0,0
+2565710,Spain,Valencia,2,94,Shot,Shot,91,54,-1,0
+2565725,Spain,Real Betis,2,71,Pass,Launch,88,53,1,0
+2565735,Spain,Legan\u00e9s,2,82,Foul,Out of game foul,100,49,0,0
+2565760,Spain,Valencia,2,89,Free Kick,Free Kick,60,90,-1,0
+2565782,Spain,M\u00e1laga,2,95,Duel,Air duel,94,44,-1,-1
+2565782,Spain,M\u00e1laga,2,95,Shot,Shot,94,44,-1,-1
+2565798,Spain,Levante,2,96,Others on the ball,Touch,89,52,-1,0
+2565820,Spain,Barcelona,1,31,Foul,Hand foul,90,36,2,1
+2565881,Spain,Eibar,2,98,Duel,Air duel,92,48,-1,0
+2565917,Spain,Levante,2,72,Others on the ball,Touch,98,48,1,0
+2057988,World_Cup,Germany,2,95,Others on the ball,Touch,71,10,-1,0
+2057988,World_Cup,Germany,2,95,Duel,Ground loose ball duel,71,11,-1,0
+2058002,World_Cup,Portugal,2,94,Duel,Air duel,88,46,-1,0
+2058004,World_Cup,Russia,1,21,Pass,Launch,87,41,-1,0
+2058004,World_Cup,Russia,1,24,Pass,Launch,92,37,-1,0
+2058004,World_Cup,Russia,1,35,Others on the ball,Touch,93,48,-1,0
+2058004,World_Cup,Russia,1,37,Free Kick,Free Kick,84,9,-1,0
+2058004,World_Cup,Russia,1,37,Pass,Launch,92,55,-1,0
+2058004,World_Cup,Russia,1,46,Others on the ball,Clearance,92,39,0,0
+2058004,World_Cup,Russia,4,106,Pass,High pass,92,24,0,0
+2058004,World_Cup,Russia,4,107,Pass,Launch,86,37,0,0
+2058004,World_Cup,Russia,4,117,Others on the ball,Clearance,98,21,0,0

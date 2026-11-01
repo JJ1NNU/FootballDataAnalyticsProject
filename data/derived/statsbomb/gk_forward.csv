@@ -1,0 +1,894 @@
+match_id,competition_id,season_id,team,period,minute,second,type,x,y,play_pattern,score_diff,red_diff
+3895286,9,281,Bayer Leverkusen,1,9,53,Ball Receipt*,87.0,13.8,Regular Play,0,0
+3895292,9,281,Union Berlin,2,96,18,Ball Receipt*,114.1,37.7,From Corner,-1,-1
+3895292,9,281,Union Berlin,2,96,18,Shot,114.1,37.7,From Corner,-1,-1
+3895292,9,281,Union Berlin,2,96,41,Ball Receipt*,112.2,34.3,From Corner,-1,-1
+3895292,9,281,Union Berlin,2,96,41,Shot,112.2,34.3,From Corner,-1,-1
+3895302,9,281,Bayer Leverkusen,2,52,42,Ball Receipt*,87.1,5.1,Regular Play,1,0
+3895232,9,281,Bayern Munich,2,93,59,Pass,63.7,57.2,From Free Kick,-2,0
+3895232,9,281,Bayern Munich,2,94,27,Duel,115.6,38.9,From Corner,-2,0
+3895232,9,281,Bayern Munich,2,94,40,Goal Keeper,81.2,28.3,Regular Play,-3,0
+3890415,9,27,Hoffenheim,2,58,29,Ball Recovery,116.0,38.5,Regular Play,1,0
+3890315,9,27,Bayer Leverkusen,1,7,27,Pass,62.6,11.3,From Free Kick,0,0
+3920417,1267,107,Mali,2,92,11,Ball Recovery,63.7,15.8,Regular Play,0,0
+3920417,1267,107,Mali,2,92,16,Pass,63.1,32.9,Regular Play,0,0
+3920408,1267,107,Equatorial Guinea,2,67,39,Pass,87.5,54.7,From Free Kick,1,0
+3922659,1267,107,Mali,4,124,6,Pass,63.9,43.6,From Free Kick,-1,2
+3922243,1267,107,South Africa,2,79,5,Duel,81.9,70.8,From Keeper,1,0
+3920418,1267,107,Congo DR,1,1,19,Pass,88.6,30.3,Regular Play,0,0
+3939982,223,282,Bolivia,1,20,29,Ball Receipt*,98.6,20.6,From Throw In,-1,0
+3939988,223,282,Ecuador,1,25,24,Ball Recovery,73.6,69.3,Regular Play,0,0
+3942852,223,282,Uruguay,2,96,57,Goal Keeper,73.6,23.0,From Keeper,-1,1
+3942852,223,282,Uruguay,2,96,57,Error,77.7,25.8,From Keeper,-1,1
+3942852,223,282,Uruguay,2,96,57,Pass,77.9,25.2,From Keeper,-1,1
+3942852,223,282,Uruguay,2,97,5,Goal Keeper,60.5,16.2,Regular Play,-1,1
+3913174,37,281,Manchester City WFC,1,17,28,Pressure,66.7,52.2,Regular Play,0,0
+3913122,37,281,Bristol City WFC,1,25,26,Ball Receipt*,85.5,47.5,Regular Play,0,0
+3913113,37,281,Tottenham Hotspur Women,2,59,13,Goal Keeper,69.2,25.7,From Kick Off,1,0
+3913184,37,281,Manchester City WFC,2,91,31,Pass,63.9,22.6,From Throw In,1,0
+3913118,37,281,West Ham United LFC,2,93,46,Pass,62.4,44.3,From Free Kick,-1,0
+3913108,37,281,Liverpool WFC,1,15,18,Foul Committed,105.1,56.1,From Throw In,0,0
+3913114,37,281,Leicester City WFC,2,99,55,Pass,68.0,54.0,From Free Kick,0,1
+3913089,37,281,Everton LFC,2,93,48,Ball Receipt*,80.0,18.6,From Throw In,-3,0
+3913086,37,281,West Ham United LFC,2,97,42,Ball Receipt*,109.3,43.8,From Corner,-1,0
+3775568,37,90,Birmingham City WFC,2,94,21,Pass,64.8,65.0,From Free Kick,-1,0
+3775609,37,90,Arsenal WFC,2,76,1,Ball Receipt*,92.2,52.8,Regular Play,1,0
+3775553,37,90,Birmingham City WFC,2,92,53,Pass,61.9,13.0,From Free Kick,-1,0
+3775585,37,90,Bristol City WFC,2,71,4,Pass,63.1,8.8,From Free Kick,-1,0
+3775567,37,90,Manchester United,2,72,23,Ball Recovery,75.6,47.6,Regular Play,-1,0
+3775567,37,90,Manchester United,2,72,23,Carry,75.6,47.6,Regular Play,-1,0
+3764231,37,90,Birmingham City WFC,2,86,51,Pass,70.8,7.0,From Free Kick,-2,0
+3764231,37,90,Birmingham City WFC,2,89,45,Pass,60.6,55.8,From Free Kick,-2,0
+3775650,37,90,West Ham United LFC,2,95,54,Pass,61.0,11.3,From Free Kick,-1,0
+3775634,37,90,Everton LFC,2,59,22,Ball Receipt*,93.2,57.9,From Goal Kick,1,0
+2275127,37,42,Everton LFC,1,7,3,Ball Receipt*,81.5,1.7,From Kick Off,-1,0
+2275127,37,42,Everton LFC,1,45,40,Ball Receipt*,85.5,2.8,From Throw In,0,0
+2275127,37,42,Everton LFC,1,45,40,Carry,85.5,2.8,From Throw In,0,0
+2275127,37,42,Everton LFC,1,45,43,Pass,79.7,7.2,From Throw In,0,0
+2275136,37,42,Manchester City WFC,2,61,0,Ball Receipt*,64.1,16.0,Regular Play,1,0
+2275136,37,42,Manchester City WFC,2,61,0,Carry,64.1,16.0,Regular Play,1,0
+2275089,37,42,Birmingham City WFC,1,40,42,Pass,120.0,80.0,From Corner,-2,0
+2275098,37,42,Brighton & Hove Albion WFC,1,43,55,Pass,78.3,53.9,From Free Kick,-2,0
+2275049,37,42,West Ham United LFC,2,87,12,Pass,64.7,57.7,From Free Kick,-1,1
+2275102,37,42,Brighton & Hove Albion WFC,2,74,12,Pass,63.3,43.1,From Free Kick,1,0
+19820,37,4,Chelsea FCW,1,23,26,Pass,78.0,4.0,From Free Kick,1,0
+19803,37,4,West Ham United LFC,1,21,42,Duel,63.0,38.0,From Throw In,0,0
+19735,37,4,Manchester City WFC,2,85,7,Own Goal For,119.0,40.0,Regular Play,5,0
+19791,37,4,Arsenal WFC,1,39,19,Ball Receipt*,71.0,73.0,From Throw In,1,0
+19741,37,4,Reading WFC,1,29,38,Goal Keeper,119.0,37.0,Regular Play,-2,0
+19729,37,4,Everton LFC,1,18,4,Pass,120.0,1.0,From Corner,0,0
+19796,37,4,Birmingham City WFC,2,60,17,Clearance,73.0,45.0,From Goal Kick,0,0
+3857276,43,106,Canada,2,91,52,Ball Receipt*,95.0,13.2,From Throw In,-1,0
+3857276,43,106,Canada,2,91,54,Pass,94.4,14.3,From Throw In,-1,0
+3857274,43,106,Ecuador,2,84,17,Ball Receipt*,62.9,33.5,Regular Play,0,0
+3869519,43,106,Croatia,1,44,53,Goal Keeper,118.5,44.9,From Throw In,-2,0
+7534,43,3,Germany,2,92,24,Ball Receipt*,110.0,39.0,From Corner,-1,0
+8656,43,3,Croatia,4,107,41,Pass,78.0,2.0,From Throw In,0,0
+7579,43,3,Uruguay,1,15,19,Pass,63.0,14.0,Regular Play,1,0
+7579,43,3,Portugal,2,94,47,Ball Receipt*,109.0,37.0,From Corner,-1,0
+7579,43,3,Portugal,2,94,47,Shot,109.0,39.0,From Corner,-1,0
+7567,43,3,Germany,2,95,43,Ball Receipt*,89.0,8.0,From Throw In,-1,0
+7567,43,3,Germany,2,95,43,Carry,89.0,8.0,From Throw In,-1,0
+7567,43,3,Germany,2,95,45,Dribble,92.0,12.0,From Throw In,-1,0
+7567,43,3,Germany,2,95,46,Pressure,94.0,14.0,From Counter,-1,0
+8652,43,3,Russia,1,29,12,Pass,95.0,77.0,From Free Kick,0,0
+3911779,135,281,SC Freiburg,2,71,14,Ball Receipt*,65.3,23.9,From Keeper,1,0
+3911795,135,281,SV Werder Bremen,2,90,33,Pass,66.5,41.3,From Free Kick,-2,0
+3911795,135,281,SV Werder Bremen,2,93,15,Pass,79.1,73.9,From Free Kick,-2,0
+3912254,135,281,SV Werder Bremen,1,8,47,Pass,64.6,61.8,From Corner,0,0
+3912254,135,281,SV Werder Bremen,2,70,23,Ball Receipt*,85.3,4.5,From Goal Kick,2,0
+3912254,135,281,SV Werder Bremen,2,70,27,Pass,81.0,5.3,From Goal Kick,2,0
+3912254,135,281,TSV Bayer 04 Leverkusen,2,92,54,Foul Committed,117.1,43.4,From Keeper,-1,0
+3912254,135,281,TSV Bayer 04 Leverkusen,2,95,30,Goal Keeper,82.3,43.7,From Counter,-1,0
+3912233,135,281,Bayern München W,2,71,51,Ball Receipt*,74.5,27.5,From Free Kick,2,0
+3912235,135,281,Eintracht Frankfurt W,1,36,16,Pass,61.0,40.1,From Kick Off,-1,0
+3912189,135,281,SV Werder Bremen,2,84,42,Goal Keeper,62.3,41.7,From Keeper,0,0
+3912189,135,281,SV Werder Bremen,2,84,42,Carry,62.3,41.7,From Keeper,0,0
+3912189,135,281,SV Werder Bremen,2,84,42,Pass,63.6,42.1,From Keeper,0,0
+3912196,135,281,SC Freiburg,2,58,25,Pass,61.0,40.1,From Kick Off,-3,0
+3911765,135,281,SV Werder Bremen,2,95,8,Pass,67.2,31.4,From Free Kick,-1,0
+3911762,135,281,RB Leipzig W,1,8,21,Ball Receipt*,67.4,35.6,From Throw In,0,0
+3911758,135,281,SC Freiburg,1,21,7,Ball Receipt*,97.7,2.4,Regular Play,0,0
+3912183,135,281,Hoffenheim W,2,92,20,Foul Committed,115.1,41.3,From Keeper,1,0
+3911770,135,281,VfL Wolfsburg WFC,1,35,29,Ball Receipt*,61.5,31.7,Other,0,0
+3813314,1238,108,Kerala Blasters,1,11,42,Ball Receipt*,69.5,9.1,Regular Play,-1,0
+3813314,1238,108,Kerala Blasters,1,11,42,Carry,69.5,9.1,Regular Play,-1,0
+3817870,1238,108,Kerala Blasters,1,0,13,Ball Receipt*,98.1,17.2,From Kick Off,0,0
+3817870,1238,108,Kerala Blasters,1,0,13,Carry,98.1,17.2,From Kick Off,0,0
+3817869,1238,108,Hyderabad,2,68,58,Pass,73.1,2.9,From Free Kick,2,0
+3817896,1238,108,East Bengal,2,95,57,Pass,63.8,55.4,From Throw In,-1,0
+3817894,1238,108,Odisha,1,33,4,Pass,64.7,56.0,From Free Kick,0,0
+3817878,1238,108,Hyderabad,1,18,55,Ball Recovery,67.1,73.9,Regular Play,0,0
+3817885,1238,108,Mumbai City,1,5,4,Dribbled Past,77.8,11.1,From Throw In,0,0
+3813311,1238,108,Jamshedpur,2,83,24,Pass,99.5,34.4,From Free Kick,-1,0
+3813285,1238,108,Goa,2,76,2,Pass,95.8,26.9,Regular Play,1,-1
+3813287,1238,108,ATK Mohun Bagan,2,86,30,Pass,120.0,80.0,From Corner,0,0
+3813298,1238,108,Jamshedpur,1,0,0,Ball Receipt*,90.6,65.4,From Kick Off,0,0
+3813288,1238,108,Jamshedpur,2,72,38,Pass,76.0,45.7,Regular Play,0,0
+3773660,11,90,Levante UD,2,95,12,Duel,117.2,43.7,From Corner,-1,0
+3773497,11,90,Real Madrid,1,45,54,Ball Receipt*,68.9,64.2,Regular Play,2,0
+3773497,11,90,Barcelona,2,93,55,Ball Recovery,104.9,36.0,From Free Kick,-1,1
+3773497,11,90,Barcelona,2,93,56,Shot,102.0,41.1,From Free Kick,-1,1
+3773656,11,90,Barcelona,2,94,11,Ball Recovery,61.1,57.1,From Corner,-1,0
+3773656,11,90,Barcelona,2,94,11,Carry,61.1,57.1,From Corner,-1,0
+3773656,11,90,Barcelona,2,94,13,Pass,65.0,60.6,From Corner,-1,0
+3773369,11,90,Huesca,1,3,15,Ball Receipt*,110.7,46.1,From Throw In,0,0
+15956,11,4,Real Valladolid,2,77,20,Ball Recovery,71.4,20.5,Regular Play,-1,0
+9592,11,1,Espanyol,1,44,41,Pass,115.0,39.0,Regular Play,-2,0
+9754,11,1,Real Sociedad,2,49,34,Pass,113.0,32.0,From Free Kick,1,0
+266892,11,2,Barcelona,1,13,30,Pass,96.5,37.1,From Throw In,0,0
+265952,11,2,Barcelona,1,5,56,Ball Receipt*,73.2,4.6,Regular Play,0,0
+265952,11,2,Barcelona,1,5,56,Carry,73.2,4.6,Regular Play,0,0
+265952,11,2,Barcelona,1,5,56,Pass,73.2,4.6,Regular Play,0,0
+3825849,11,27,Valencia,2,71,17,Pass,74.0,80.0,From Throw In,0,0
+3825777,11,27,Getafe,1,27,9,Ball Recovery,76.2,14.5,Regular Play,-1,0
+3825777,11,27,Getafe,1,27,9,Carry,76.2,14.5,Regular Play,-1,0
+3825871,11,27,Espanyol,1,33,23,Goal Keeper,62.2,53.3,From Keeper,0,0
+3825871,11,27,Espanyol,1,33,23,Carry,62.2,53.3,From Keeper,0,0
+3825889,11,27,Celta Vigo,2,68,28,Ball Recovery,89.0,52.6,Regular Play,-1,0
+3825889,11,27,Celta Vigo,2,68,29,Pass,72.8,31.0,Regular Play,-1,0
+3825897,11,27,Eibar,2,61,18,Pass,111.3,38.0,From Keeper,1,0
+3825827,11,27,Real Betis,2,93,29,Pass,73.0,26.2,From Keeper,1,0
+3825823,11,27,Sevilla,1,27,22,Ball Recovery,70.8,58.5,From Free Kick,-1,0
+3825814,11,27,Real Sociedad,2,93,23,Ball Receipt*,66.7,68.2,From Throw In,-1,0
+3825814,11,27,Real Sociedad,2,93,23,Carry,66.7,68.2,From Throw In,-1,0
+3825814,11,27,Real Sociedad,2,93,25,Pass,66.7,68.2,From Throw In,-1,0
+3825809,11,27,Granada,1,2,21,Pass,86.1,0.1,From Throw In,0,0
+3825809,11,27,Granada,1,2,23,Ball Receipt*,80.8,3.3,From Throw In,0,0
+3825809,11,27,Granada,1,2,23,Pass,79.2,4.7,From Throw In,0,0
+3825809,11,27,Granada,1,10,34,Pass,84.9,12.5,Regular Play,0,0
+3825809,11,27,Granada,1,10,37,Ball Receipt*,88.6,11.1,Regular Play,0,0
+3825809,11,27,Granada,1,10,37,Carry,88.6,11.1,Regular Play,0,0
+3825809,11,27,Granada,1,10,39,Pass,100.0,12.0,Regular Play,0,0
+3825809,11,27,Granada,1,16,30,Pressure,65.0,6.8,Regular Play,0,0
+3825809,11,27,Granada,1,24,0,Pass,61.0,21.3,Regular Play,0,0
+3825809,11,27,Granada,1,24,59,Pass,91.2,0.1,From Throw In,0,0
+3825809,11,27,Granada,1,25,31,Ball Recovery,69.7,11.0,From Throw In,0,0
+3825809,11,27,Granada,1,25,31,Carry,69.7,11.0,From Throw In,0,0
+3825809,11,27,Granada,1,25,32,Pass,68.2,5.3,From Throw In,0,0
+3825809,11,27,Granada,1,31,24,Ball Receipt*,79.5,7.9,From Throw In,0,0
+3825809,11,27,Granada,1,31,24,Carry,79.5,7.9,From Throw In,0,0
+3825809,11,27,Granada,1,31,27,Dispossessed,94.3,6.9,From Throw In,0,0
+3825809,11,27,Granada,1,31,37,Pass,86.9,0.1,From Throw In,0,0
+3825809,11,27,Granada,1,37,24,Ball Receipt*,79.1,20.5,From Throw In,0,0
+3825809,11,27,Granada,1,37,24,Carry,79.1,20.5,From Throw In,0,0
+3825809,11,27,Granada,1,37,27,Shot,92.7,28.8,From Throw In,0,0
+3825809,11,27,Granada,1,38,26,Pass,76.9,6.3,From Free Kick,0,0
+3825809,11,27,Granada,1,43,1,Ball Receipt*,67.8,16.4,Regular Play,0,0
+3825809,11,27,Granada,1,43,1,Carry,67.8,16.4,Regular Play,0,0
+3825809,11,27,Granada,1,43,3,Pass,86.9,12.5,Regular Play,0,0
+3825809,11,27,Granada,1,43,25,Pass,105.4,0.1,From Throw In,0,0
+3825809,11,27,Granada,1,45,39,Ball Receipt*,69.7,11.0,Regular Play,0,0
+3825809,11,27,Granada,1,45,39,Carry,69.7,11.0,Regular Play,0,0
+3825809,11,27,Granada,1,45,39,Pass,73.0,10.4,Regular Play,0,0
+3825809,11,27,Granada,2,45,15,Pass,78.1,0.8,From Kick Off,0,0
+3825809,11,27,Granada,2,45,20,Ball Receipt*,105.7,1.6,From Kick Off,0,0
+3825809,11,27,Granada,2,45,20,Carry,105.7,1.6,From Kick Off,0,0
+3825809,11,27,Granada,2,45,23,Pass,105.7,1.6,From Kick Off,0,0
+3825809,11,27,Granada,2,45,24,Ball Receipt*,104.7,2.3,From Kick Off,0,0
+3825809,11,27,Granada,2,45,24,Carry,104.7,2.3,From Kick Off,0,0
+3825809,11,27,Granada,2,45,25,Pass,101.7,3.6,From Kick Off,0,0
+3825809,11,27,Granada,2,48,29,Pass,97.8,0.1,From Throw In,0,0
+3825809,11,27,Granada,2,48,45,Pass,99.3,0.1,From Throw In,0,0
+3825809,11,27,Granada,2,57,6,Pass,87.1,0.1,From Throw In,0,1
+3825809,11,27,Granada,2,58,19,Pass,94.4,0.1,From Throw In,0,1
+3825809,11,27,Granada,2,60,0,Ball Receipt*,70.2,2.7,Regular Play,0,1
+3825809,11,27,Granada,2,60,0,Carry,70.2,2.7,Regular Play,0,1
+3825809,11,27,Granada,2,60,2,Pass,70.2,2.7,Regular Play,0,1
+3825809,11,27,Granada,2,62,2,Ball Receipt*,65.5,3.8,From Free Kick,0,1
+3825809,11,27,Granada,2,62,2,Carry,65.5,3.8,From Free Kick,0,1
+3825809,11,27,Granada,2,62,4,Pass,71.1,4.2,From Free Kick,0,1
+3825809,11,27,Granada,2,62,24,Ball Receipt*,82.4,1.6,From Free Kick,0,1
+3825809,11,27,Granada,2,62,24,Carry,82.4,1.6,From Free Kick,0,1
+3825809,11,27,Granada,2,62,25,Pass,84.6,1.4,From Free Kick,0,1
+3825809,11,27,Granada,2,62,33,Ball Receipt*,91.4,2.3,From Free Kick,0,1
+3825809,11,27,Granada,2,62,33,Carry,91.4,2.3,From Free Kick,0,1
+3825809,11,27,Granada,2,62,34,Pass,91.4,2.3,From Free Kick,0,1
+3825809,11,27,Granada,2,63,1,Ball Receipt*,77.7,2.3,From Free Kick,0,1
+3825809,11,27,Granada,2,63,1,Carry,77.7,2.3,From Free Kick,0,1
+3825809,11,27,Granada,2,63,2,Pass,82.6,5.9,From Free Kick,0,1
+3825809,11,27,Granada,2,71,33,Ball Receipt*,78.0,2.1,Regular Play,0,1
+3825809,11,27,Granada,2,71,33,Carry,78.0,2.1,Regular Play,0,1
+3825809,11,27,Granada,2,71,36,Pass,85.3,3.0,Regular Play,0,1
+3825809,11,27,Granada,2,73,25,Pass,63.6,4.9,From Free Kick,0,1
+3825809,11,27,Granada,2,73,37,Ball Recovery,77.3,21.1,From Free Kick,0,1
+3825809,11,27,Granada,2,73,37,Carry,77.3,21.1,From Free Kick,0,1
+3825809,11,27,Granada,2,73,41,Pass,88.5,24.1,From Free Kick,0,1
+3825809,11,27,Granada,2,76,47,Pass,109.9,0.1,From Throw In,0,1
+3825809,11,27,Granada,2,81,32,Ball Receipt*,84.4,1.9,Regular Play,0,1
+3825809,11,27,Granada,2,81,32,Carry,84.4,1.9,Regular Play,0,1
+3825809,11,27,Granada,2,81,34,Pass,93.7,2.6,Regular Play,0,1
+3825809,11,27,Granada,2,85,41,Ball Receipt*,64.8,5.5,From Kick Off,-1,1
+3825809,11,27,Granada,2,85,41,Carry,64.8,5.5,From Kick Off,-1,1
+3825809,11,27,Granada,2,85,41,Pass,64.6,5.4,From Kick Off,-1,1
+3825809,11,27,Granada,2,86,14,Ball Receipt*,109.3,1.6,From Kick Off,-1,1
+3825809,11,27,Granada,2,86,14,Carry,109.3,1.6,From Kick Off,-1,1
+3825809,11,27,Granada,2,86,16,Pass,111.9,1.6,From Kick Off,-1,1
+3825809,11,27,Granada,2,86,29,Pass,120.0,0.1,From Corner,-1,1
+3825809,11,27,Granada,2,88,2,Pass,68.6,0.1,From Throw In,-1,1
+3825809,11,27,Granada,2,88,4,Ball Receipt*,68.3,1.9,From Throw In,-1,1
+3825809,11,27,Granada,2,88,4,Pass,68.3,1.9,From Throw In,-1,1
+3825809,11,27,Granada,2,89,8,Pass,67.6,4.7,From Free Kick,-1,1
+3825809,11,27,Granada,2,90,1,Ball Receipt*,97.6,1.9,From Goal Kick,-1,1
+3825809,11,27,Granada,2,90,1,Carry,97.6,1.9,From Goal Kick,-1,1
+3825809,11,27,Granada,2,90,2,Pass,99.5,2.1,From Goal Kick,-1,1
+3825809,11,27,Granada,2,90,14,Pass,110.5,0.1,From Throw In,-1,1
+3825809,11,27,Granada,2,90,21,Ball Receipt*,110.2,2.5,From Throw In,-1,1
+3825809,11,27,Granada,2,90,21,Pass,110.2,2.5,From Throw In,-1,1
+3825809,11,27,Granada,2,90,30,Pass,79.6,0.1,From Throw In,-1,1
+3825796,11,27,Las Palmas,2,87,10,Ball Receipt*,76.8,46.2,Regular Play,4,1
+3825795,11,27,Real Sociedad,1,8,46,Pass,61.0,40.1,From Kick Off,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,84,29,Ball Receipt*,79.1,74.6,From Throw In,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,84,29,Carry,79.1,74.6,From Throw In,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,84,34,Foul Won,108.1,74.8,From Throw In,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,87,0,Pressure,64.3,70.8,From Free Kick,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,87,0,Duel,63.0,70.5,From Free Kick,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,87,0,Carry,63.0,70.5,From Free Kick,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,88,52,Ball Receipt*,64.3,65.6,From Free Kick,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,88,52,Carry,64.3,65.6,From Free Kick,-1,0
+3825792,11,27,RC Deportivo La Coruña,2,88,55,Dispossessed,69.8,61.8,From Free Kick,-1,0
+3825769,11,27,Málaga,1,12,22,Pass,62.0,69.0,From Keeper,0,0
+3825579,11,27,Sevilla,1,38,53,Ball Recovery,98.9,16.9,Regular Play,-1,0
+3825638,11,27,Valencia,2,46,20,Ball Receipt*,87.3,35.6,Regular Play,-2,0
+3825607,11,27,Villarreal,2,90,41,Foul Committed,69.0,71.4,From Keeper,1,0
+3825707,11,27,Las Palmas,2,74,53,Pass,72.8,32.8,From Throw In,1,0
+3825681,11,27,Getafe,2,51,55,Dribbled Past,84.7,4.3,From Throw In,-4,0
+3825657,11,27,Real Betis,2,55,52,Ball Recovery,61.1,3.4,Regular Play,0,0
+3825628,11,27,Las Palmas,1,14,37,Pass,65.5,72.7,From Goal Kick,-2,0
+3825868,11,27,Granada,2,91,12,Pass,62.8,38.2,From Free Kick,-1,0
+3825854,11,27,Sporting Gijón,1,23,7,Ball Recovery,66.4,38.9,From Free Kick,0,0
+3825763,11,27,Las Palmas,1,18,30,Ball Recovery,61.7,73.3,Regular Play,-1,0
+3825763,11,27,Las Palmas,1,18,30,Carry,61.7,73.3,Regular Play,-1,0
+3825750,11,27,Real Betis,1,0,1,Ball Receipt*,60.1,42.4,From Kick Off,0,0
+3825750,11,27,Real Betis,1,0,1,Pass,60.1,42.8,From Kick Off,0,0
+3825730,11,27,Real Sociedad,2,51,25,Pass,104.8,8.5,From Free Kick,0,0
+3825633,11,27,Rayo Vallecano,1,12,0,Ball Recovery,107.4,41.3,Regular Play,0,0
+3825633,11,27,Rayo Vallecano,1,12,0,Carry,107.4,41.3,Regular Play,0,0
+3825633,11,27,Rayo Vallecano,1,12,6,Pass,110.5,36.9,Regular Play,0,0
+3825633,11,27,Rayo Vallecano,1,19,35,Ball Recovery,93.5,32.4,Regular Play,0,0
+3825633,11,27,Rayo Vallecano,1,19,41,Pass,93.1,32.8,Regular Play,0,0
+3825627,11,27,Rayo Vallecano,1,28,51,Pass,120.0,0.1,From Corner,0,0
+3825597,11,27,Rayo Vallecano,1,8,56,Foul Committed,64.5,8.1,From Free Kick,0,0
+3825597,11,27,Rayo Vallecano,1,35,47,Pass,80.1,65.8,Regular Play,0,0
+3825593,11,27,Eibar,2,88,9,Ball Receipt*,69.2,52.1,From Throw In,-2,0
+3825593,11,27,Eibar,2,88,9,Carry,69.2,52.1,From Throw In,-2,0
+3825593,11,27,Eibar,2,88,16,Pass,67.2,55.2,From Throw In,-2,0
+3825590,11,27,Granada,1,13,42,Pass,64.7,71.2,From Keeper,0,0
+3825582,11,27,Real Betis,2,80,59,Pass,105.0,75.1,From Free Kick,1,-1
+3825582,11,27,Real Sociedad,2,91,55,Pass,61.3,12.2,From Free Kick,-1,1
+3825568,11,27,Real Betis,2,50,40,Pass,76.2,9.5,From Keeper,-1,0
+266310,11,27,RC Deportivo La Coruña,2,65,17,Ball Receipt*,77.2,40.7,From Kick Off,-5,0
+266310,11,27,RC Deportivo La Coruña,2,65,17,Carry,77.2,40.7,From Kick Off,-5,0
+266310,11,27,RC Deportivo La Coruña,2,65,17,Pass,74.9,43.5,From Kick Off,-5,0
+70306,11,25,Espanyol,1,1,24,Dribbled Past,63.1,76.3,From Free Kick,0,0
+70306,11,25,Espanyol,1,3,53,Pass,75.6,80.0,From Throw In,0,0
+70306,11,25,Espanyol,1,6,14,Foul Committed,71.0,66.9,Regular Play,0,0
+70306,11,25,Espanyol,1,11,3,Foul Committed,83.9,61.9,From Throw In,0,0
+70306,11,25,Espanyol,1,14,23,Pass,84.5,80.0,From Throw In,0,0
+70306,11,25,Espanyol,1,15,3,Duel,63.7,68.4,Regular Play,0,0
+70306,11,25,Espanyol,1,22,29,Ball Receipt*,115.7,58.6,From Free Kick,0,0
+70306,11,25,Espanyol,1,25,4,Pressure,62.1,71.9,From Goal Kick,0,0
+70306,11,25,Espanyol,1,32,47,Ball Receipt*,70.6,61.3,From Throw In,0,0
+70306,11,25,Espanyol,1,32,47,Carry,70.6,61.3,From Throw In,0,0
+70306,11,25,Espanyol,1,32,48,Pass,70.0,63.8,From Throw In,0,0
+70306,11,25,Espanyol,1,40,40,Pass,95.5,80.0,From Throw In,0,0
+70306,11,25,Espanyol,1,41,17,Pass,109.7,80.0,From Throw In,0,0
+70306,11,25,Espanyol,1,41,23,Pass,61.7,52.0,From Throw In,0,0
+70306,11,25,Espanyol,1,42,14,Pass,68.7,76.3,Regular Play,0,0
+70306,11,25,Espanyol,1,42,39,Pass,102.2,80.0,From Throw In,0,0
+70306,11,25,Espanyol,2,45,27,Pass,70.1,80.0,From Throw In,0,0
+70306,11,25,Espanyol,2,49,34,Pass,81.2,80.0,From Throw In,0,0
+70306,11,25,Espanyol,2,49,46,Pass,77.1,80.0,From Throw In,0,0
+70306,11,25,Espanyol,2,49,54,Pressure,65.0,67.1,Regular Play,0,0
+70306,11,25,Espanyol,2,61,1,Ball Receipt*,64.0,76.7,Regular Play,0,0
+70306,11,25,Espanyol,2,61,1,Carry,64.0,76.7,Regular Play,0,0
+70306,11,25,Espanyol,2,61,2,Pass,61.2,76.5,Regular Play,0,0
+70306,11,25,Espanyol,2,61,10,Ball Receipt*,70.1,77.3,Regular Play,0,0
+70306,11,25,Espanyol,2,61,10,Carry,70.1,77.3,Regular Play,0,0
+70306,11,25,Espanyol,2,61,11,Dribble,69.5,76.9,Regular Play,0,0
+70306,11,25,Espanyol,2,62,5,Ball Receipt*,83.2,70.8,Regular Play,0,0
+70306,11,25,Espanyol,2,62,5,Carry,83.2,70.8,Regular Play,0,0
+70306,11,25,Espanyol,2,62,6,Pass,83.2,72.0,Regular Play,0,0
+70306,11,25,Espanyol,2,64,5,Pressure,74.0,69.1,Regular Play,0,0
+70306,11,25,Espanyol,2,65,30,Pressure,62.2,75.9,From Throw In,0,0
+70306,11,25,Espanyol,2,65,33,Ball Recovery,63.2,73.0,Regular Play,0,0
+70306,11,25,Espanyol,2,65,33,Carry,63.2,73.0,Regular Play,0,0
+70306,11,25,Espanyol,2,65,34,Foul Won,62.2,73.8,Regular Play,0,0
+70306,11,25,Espanyol,2,67,40,Pressure,71.4,72.2,Regular Play,0,0
+70306,11,25,Espanyol,2,67,41,Foul Committed,76.3,72.8,Regular Play,0,0
+70306,11,25,Espanyol,2,69,55,Pass,109.1,80.0,From Throw In,0,0
+70306,11,25,Espanyol,2,69,59,Ball Recovery,109.9,79.9,From Throw In,0,0
+70306,11,25,Espanyol,2,69,59,Carry,109.9,79.9,From Throw In,0,0
+70306,11,25,Espanyol,2,70,3,Pass,115.2,77.5,From Throw In,0,0
+70306,11,25,Espanyol,2,74,17,Dribbled Past,79.3,72.6,From Throw In,0,0
+70306,11,25,Espanyol,2,80,10,Duel,78.0,76.0,Regular Play,-1,0
+267192,11,25,Celta Vigo,2,67,5,Ball Receipt*,69.4,33.6,Regular Play,-3,0
+70284,11,24,Atlético Madrid,2,91,59,Ball Receipt*,115.9,47.7,From Corner,-1,0
+70284,11,24,Atlético Madrid,2,91,59,Duel,116.3,47.7,From Corner,-1,0
+70294,11,24,Barcelona,2,86,29,Pass,102.5,25.4,From Free Kick,1,0
+69316,11,23,Real Sociedad,2,67,45,Pass,87.4,73.2,From Keeper,-1,0
+69337,11,23,Atlético Madrid,2,90,39,Foul Committed,114.8,42.2,From Corner,-1,0
+69272,11,22,Levante UD,2,68,48,Ball Receipt*,70.0,12.8,From Goal Kick,0,0
+69272,11,22,Levante UD,2,68,48,Carry,70.0,12.8,From Goal Kick,0,0
+69272,11,22,Levante UD,2,68,49,Pass,70.0,12.8,From Goal Kick,0,0
+69214,11,21,Barcelona,2,87,7,Ball Receipt*,76.3,13.0,From Free Kick,2,0
+69214,11,21,Barcelona,2,87,7,Carry,76.3,13.0,From Free Kick,2,0
+69214,11,21,Barcelona,2,87,7,Pass,81.8,20.2,From Free Kick,2,0
+69177,11,41,Almería,1,6,36,Pass,64.6,50.6,From Keeper,0,0
+69183,11,41,RC Deportivo La Coruña,1,4,9,Pressure,63.7,47.2,From Free Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,8,17,Ball Receipt*,71.0,11.4,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,8,17,Carry,71.0,11.4,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,8,19,Pass,66.3,15.8,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,10,51,Ball Receipt*,69.5,22.2,From Throw In,0,0
+69183,11,41,RC Deportivo La Coruña,1,10,51,Carry,69.5,22.2,From Throw In,0,0
+69183,11,41,RC Deportivo La Coruña,1,10,51,Pass,66.5,25.0,From Throw In,0,0
+69183,11,41,RC Deportivo La Coruña,1,11,30,Ball Receipt*,77.9,16.0,Regular Play,0,0
+69183,11,41,RC Deportivo La Coruña,1,11,30,Carry,77.9,16.0,Regular Play,0,0
+69183,11,41,RC Deportivo La Coruña,1,11,32,Pass,79.9,12.6,Regular Play,0,0
+69183,11,41,RC Deportivo La Coruña,1,15,23,Ball Receipt*,65.3,2.1,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,16,16,Ball Receipt*,79.1,30.5,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,16,16,Duel,78.3,30.7,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,16,22,Ball Receipt*,75.4,32.8,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,16,22,Carry,75.4,32.8,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,16,23,Pass,74.1,32.1,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,16,35,Ball Receipt*,67.7,60.5,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,16,35,Carry,67.7,60.5,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,16,36,Pass,67.6,59.4,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,17,36,Ball Receipt*,76.8,12.0,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,17,36,Carry,76.8,12.0,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,17,38,Pass,88.2,9.3,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,17,42,Ball Receipt*,88.3,9.2,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,17,42,Carry,88.3,9.2,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,17,43,Pass,81.8,11.9,From Goal Kick,0,0
+69183,11,41,RC Deportivo La Coruña,1,20,33,Ball Receipt*,63.0,22.1,From Keeper,0,0
+69183,11,41,RC Deportivo La Coruña,1,20,33,Carry,63.0,22.1,From Keeper,0,0
+69183,11,41,RC Deportivo La Coruña,1,20,35,Pass,62.7,21.0,From Keeper,0,0
+69183,11,41,RC Deportivo La Coruña,1,25,3,Ball Receipt*,74.3,11.7,From Throw In,-1,0
+69183,11,41,RC Deportivo La Coruña,1,25,3,Carry,74.3,11.7,From Throw In,-1,0
+69183,11,41,RC Deportivo La Coruña,1,25,3,Pass,74.4,11.7,From Throw In,-1,0
+69183,11,41,RC Deportivo La Coruña,1,25,3,Pressure,71.4,8.4,From Throw In,-1,0
+69183,11,41,RC Deportivo La Coruña,1,25,4,Foul Committed,69.3,6.1,From Throw In,-1,0
+69183,11,41,RC Deportivo La Coruña,1,28,6,Ball Receipt*,86.4,12.5,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,28,6,Carry,86.4,12.5,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,28,6,Pass,86.4,12.5,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,28,17,Interception,95.4,10.8,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,29,48,Ball Receipt*,76.2,26.4,From Free Kick,-2,0
+69183,11,41,RC Deportivo La Coruña,1,29,48,Carry,76.2,26.4,From Free Kick,-2,0
+69183,11,41,RC Deportivo La Coruña,1,29,50,Pass,80.4,25.8,From Free Kick,-2,0
+69183,11,41,RC Deportivo La Coruña,1,30,34,Pass,71.7,8.5,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,31,19,Pressure,73.2,63.4,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,36,44,Ball Receipt*,72.2,10.4,From Goal Kick,-2,0
+69183,11,41,RC Deportivo La Coruña,1,36,44,Carry,72.2,10.4,From Goal Kick,-2,0
+69183,11,41,RC Deportivo La Coruña,1,36,45,Pass,74.8,4.4,From Goal Kick,-2,0
+69183,11,41,RC Deportivo La Coruña,1,36,58,Ball Receipt*,89.1,19.4,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,36,58,Carry,89.1,19.4,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,36,59,Dispossessed,83.1,17.5,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,37,0,Pressure,80.5,17.8,Regular Play,-2,0
+69183,11,41,RC Deportivo La Coruña,1,38,11,Ball Receipt*,107.0,76.8,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,38,11,Carry,107.0,76.8,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,38,12,Dispossessed,106.0,77.5,From Throw In,-2,0
+69183,11,41,RC Deportivo La Coruña,1,42,25,Pressure,69.7,25.8,From Kick Off,-3,0
+69183,11,41,RC Deportivo La Coruña,1,42,26,Pass,71.4,24.5,From Kick Off,-3,0
+69183,11,41,RC Deportivo La Coruña,1,45,15,Ball Receipt*,66.5,18.1,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,1,45,15,Carry,66.5,18.1,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,1,45,15,Pass,65.8,13.3,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,46,43,Ball Receipt*,64.6,34.4,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,46,43,Carry,64.6,34.4,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,46,44,Foul Won,64.9,34.1,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,46,58,Pass,69.9,29.3,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,48,55,Pass,61.1,40.0,From Throw In,-3,0
+69183,11,41,RC Deportivo La Coruña,2,49,29,Pass,62.9,21.2,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,49,39,Ball Receipt*,76.5,21.8,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,49,39,Carry,76.5,21.8,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,49,39,Pass,76.5,21.8,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,53,24,Ball Receipt*,94.2,50.8,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,53,24,Carry,94.2,50.8,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,53,27,Pass,95.2,64.5,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,58,18,Clearance,70.9,4.6,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,58,39,Pass,66.0,7.7,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,60,18,Ball Receipt*,65.6,26.6,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,60,18,Carry,65.6,26.6,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,60,19,Pass,65.6,26.1,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,60,24,Pressure,64.0,33.6,Regular Play,-3,0
+69183,11,41,RC Deportivo La Coruña,2,65,35,Ball Receipt*,79.8,69.2,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,65,35,Carry,79.8,69.2,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,65,37,Pass,84.9,66.8,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,3,Ball Receipt*,99.6,3.9,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,3,Carry,99.6,3.9,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,5,Pass,99.4,3.7,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,8,Ball Receipt*,101.4,3.4,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,8,Carry,101.4,3.4,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,10,Pass,112.7,5.5,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,15,Ball Receipt*,110.4,13.5,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,15,Carry,110.4,13.5,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,69,15,Pass,111.4,10.3,From Free Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,75,27,Ball Receipt*,78.0,24.4,From Goal Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,75,28,Foul Won,78.6,19.8,From Goal Kick,-3,0
+69183,11,41,RC Deportivo La Coruña,2,77,4,Pass,71.1,29.2,Regular Play,-3,0
+69146,11,40,Sevilla,2,74,42,Pass,107.6,42.3,Regular Play,1,0
+69186,11,40,Real Murcia CF,2,52,57,Pass,61.5,26.1,Regular Play,-3,0
+69170,11,40,RC Deportivo La Coruña,2,91,36,Pass,62.1,15.3,From Free Kick,-1,0
+69162,11,39,Real Betis,2,67,23,Pass,85.5,80.0,From Throw In,-1,0
+68340,11,39,Racing Santander,1,7,57,Ball Receipt*,72.8,6.2,Regular Play,0,0
+68340,11,39,Racing Santander,1,7,57,Carry,72.8,6.2,Regular Play,0,0
+68340,11,39,Racing Santander,1,7,57,Pass,72.8,6.2,Regular Play,0,0
+68340,11,39,Racing Santander,1,9,5,Ball Receipt*,76.5,4.0,From Free Kick,0,0
+68340,11,39,Racing Santander,1,9,5,Carry,76.5,4.0,From Free Kick,0,0
+68340,11,39,Racing Santander,1,9,5,Miscontrol,76.5,4.0,From Free Kick,0,0
+68340,11,39,Racing Santander,1,9,47,Pass,75.7,3.2,From Throw In,0,0
+68340,11,39,Racing Santander,1,13,22,Pressure,63.7,8.4,Regular Play,0,0
+68340,11,39,Racing Santander,1,16,24,Ball Receipt*,96.6,41.7,Regular Play,0,0
+68340,11,39,Racing Santander,1,16,24,Shot,98.5,45.7,Regular Play,0,0
+68340,11,39,Racing Santander,1,19,37,Pressure,115.1,22.5,From Throw In,-1,0
+68340,11,39,Racing Santander,1,19,38,Ball Receipt*,115.5,23.0,From Throw In,-1,0
+68340,11,39,Racing Santander,1,21,58,Ball Receipt*,68.1,15.1,From Throw In,-1,0
+68340,11,39,Racing Santander,1,21,58,Pass,68.7,15.6,From Throw In,-1,0
+68340,11,39,Racing Santander,1,22,2,Ball Receipt*,81.8,20.1,From Throw In,-1,0
+68340,11,39,Racing Santander,1,22,2,Carry,81.8,20.1,From Throw In,-1,0
+68340,11,39,Racing Santander,1,22,7,Pass,73.1,7.1,From Throw In,-1,0
+68340,11,39,Racing Santander,1,28,20,Ball Receipt*,64.6,3.2,Regular Play,-1,0
+68340,11,39,Racing Santander,1,28,20,Carry,64.6,3.2,Regular Play,-1,0
+68340,11,39,Racing Santander,1,28,29,Foul Won,94.4,4.5,Regular Play,-1,0
+68340,11,39,Racing Santander,1,31,40,Ball Receipt*,104.6,9.9,From Free Kick,-1,0
+68340,11,39,Racing Santander,1,31,40,Carry,104.6,9.9,From Free Kick,-1,0
+68340,11,39,Racing Santander,1,31,41,Pass,115.1,9.2,From Free Kick,-1,0
+68340,11,39,Racing Santander,1,34,58,Ball Receipt*,83.7,5.3,From Free Kick,-1,0
+68340,11,39,Racing Santander,1,34,58,Carry,83.7,5.3,From Free Kick,-1,0
+68340,11,39,Racing Santander,1,35,0,Pass,80.7,5.1,From Free Kick,-1,0
+68340,11,39,Racing Santander,1,40,31,Pressure,78.3,19.0,From Goal Kick,-1,0
+68340,11,39,Racing Santander,1,45,36,Dribble,75.0,17.5,Regular Play,-1,0
+68340,11,39,Racing Santander,1,45,36,Carry,75.0,17.5,Regular Play,-1,0
+68340,11,39,Racing Santander,1,45,38,Pass,82.6,18.8,Regular Play,-1,0
+68340,11,39,Racing Santander,2,54,34,Pressure,70.2,11.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,59,22,Pressure,85.9,25.1,Regular Play,-1,0
+68340,11,39,Racing Santander,2,59,23,Dribbled Past,87.6,24.5,Regular Play,-1,0
+68340,11,39,Racing Santander,2,59,59,Ball Receipt*,65.6,11.2,Regular Play,-1,0
+68340,11,39,Racing Santander,2,59,59,Carry,65.6,11.2,Regular Play,-1,0
+68340,11,39,Racing Santander,2,60,1,Pass,70.4,11.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,60,50,Ball Receipt*,69.3,12.3,Regular Play,-1,0
+68340,11,39,Racing Santander,2,60,50,Carry,69.3,12.3,Regular Play,-1,0
+68340,11,39,Racing Santander,2,60,51,Pass,74.6,11.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,66,5,Ball Receipt*,79.9,43.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,66,5,Carry,79.9,43.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,66,8,Pass,76.3,30.8,Regular Play,-1,0
+68340,11,39,Racing Santander,2,66,25,Ball Receipt*,106.8,23.6,Regular Play,-1,0
+68340,11,39,Racing Santander,2,66,25,Pass,106.8,23.6,Regular Play,-1,0
+68340,11,39,Racing Santander,2,66,53,Ball Receipt*,100.7,31.2,Regular Play,-1,0
+68340,11,39,Racing Santander,2,70,44,Ball Receipt*,97.9,45.9,From Free Kick,-1,0
+68340,11,39,Racing Santander,2,72,52,Ball Receipt*,98.1,3.9,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,72,52,Carry,98.1,3.9,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,72,55,Pass,99.2,3.9,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,72,59,Ball Receipt*,103.4,6.0,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,72,59,Carry,103.4,6.0,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,73,0,Pass,104.7,4.9,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,73,3,Pressure,104.4,19.9,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,76,8,Ball Receipt*,78.2,24.7,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,76,8,Carry,78.2,24.7,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,76,11,Dispossessed,82.0,44.4,From Goal Kick,-1,0
+68340,11,39,Racing Santander,2,76,13,Pressure,85.9,47.4,Regular Play,-1,0
+68340,11,39,Racing Santander,2,77,31,Ball Receipt*,82.2,14.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,77,31,Carry,82.2,14.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,77,33,Pass,84.5,27.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,78,47,Ball Receipt*,81.5,22.4,Regular Play,-1,0
+68340,11,39,Racing Santander,2,78,47,Duel,82.4,22.6,Regular Play,-1,0
+68340,11,39,Racing Santander,2,78,49,Ball Recovery,78.0,27.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,78,49,Carry,78.0,27.0,Regular Play,-1,0
+68340,11,39,Racing Santander,2,78,50,Pass,76.7,27.4,Regular Play,-1,0
+68340,11,39,Racing Santander,2,78,55,Ball Receipt*,80.7,52.2,Regular Play,-1,0
+68340,11,39,Racing Santander,2,78,55,Carry,80.7,52.2,Regular Play,-1,0
+68340,11,39,Racing Santander,2,79,0,Shot,98.6,34.3,Regular Play,-1,0
+68340,11,39,Racing Santander,2,79,58,Ball Receipt*,67.5,32.7,Regular Play,-1,0
+68340,11,39,Racing Santander,2,79,58,Carry,67.5,32.7,Regular Play,-1,0
+68340,11,39,Racing Santander,2,79,58,Pass,67.7,32.9,Regular Play,-1,0
+68340,11,39,Racing Santander,2,89,7,Ball Recovery,102.6,5.8,From Free Kick,-2,0
+68340,11,39,Racing Santander,2,89,7,Carry,102.6,5.8,From Free Kick,-2,0
+68340,11,39,Racing Santander,2,89,10,Pass,101.3,7.0,From Free Kick,-2,0
+69172,11,38,Real Betis,1,29,31,Pass,61.0,41.0,From Kick Off,-2,0
+68351,11,38,Barcelona,1,5,57,Ball Recovery,83.1,16.4,Regular Play,0,0
+68351,11,38,Barcelona,1,6,3,Pass,87.5,22.1,Regular Play,0,0
+3910954,182,281,Atletico Madrid W,2,94,57,Ball Receipt*,114.1,42.6,From Corner,-1,0
+3910954,182,281,Atletico Madrid W,2,94,57,Duel,114.1,42.6,From Corner,-1,0
+3910934,182,281,Levante UD Femenino,2,46,14,Pass,61.0,40.1,From Kick Off,0,0
+3911518,182,281,Sevilla FC,2,70,41,Ball Receipt*,65.9,76.3,From Keeper,-5,0
+3911474,182,281,Valencia CF,1,4,53,Ball Receipt*,82.8,9.3,Regular Play,0,0
+3911293,182,281,FC Levante Badalona,2,90,2,Ball Receipt*,62.3,5.1,From Throw In,-6,0
+3911293,182,281,FC Levante Badalona,2,95,2,Ball Receipt*,67.0,37.2,Regular Play,-8,0
+3910956,182,281,FC Levante Badalona,1,1,37,Ball Receipt*,79.1,19.7,Regular Play,0,0
+3910965,182,281,Real Sociedad de Fútbol,2,77,15,Ball Receipt*,60.8,54.5,From Free Kick,0,0
+3910953,182,281,SD Eibar,1,17,24,Pass,64.3,53.0,From Free Kick,-2,0
+3910953,182,281,SD Eibar,1,30,42,Pass,61.4,52.8,From Free Kick,-3,0
+3911483,182,281,CD Sporting de Huelva,2,92,55,Ball Receipt*,99.9,38.5,From Free Kick,-1,0
+3911483,182,281,CD Sporting de Huelva,2,92,55,Carry,99.9,38.5,From Free Kick,-1,0
+3911483,182,281,CD Sporting de Huelva,2,92,55,Miscontrol,99.1,39.0,From Free Kick,-1,0
+3911471,182,281,Atletico Madrid W,2,99,10,Pass,61.5,29.2,From Throw In,-1,0
+3911292,182,281,Costa Adeje Tenerife,2,86,6,Pass,62.1,51.7,From Throw In,-1,0
+3910993,182,281,Costa Adeje Tenerife,2,50,10,Pass,71.0,68.4,Regular Play,0,0
+3910969,182,281,Levante UD Femenino,2,63,27,Pass,69.0,80.0,From Throw In,0,0
+3910940,182,281,SD Eibar,2,94,25,Pass,63.8,15.9,From Free Kick,-1,0
+3910747,182,281,SD Eibar,2,95,28,Pass,62.9,35.8,From Free Kick,-1,0
+3900507,7,27,Olympique de Marseille,2,53,15,Pass,92.1,48.7,From Free Kick,-1,0
+3900608,7,27,OGC Nice,2,62,10,Ball Receipt*,108.9,30.4,Regular Play,-2,0
+3901169,7,27,Olympique de Marseille,1,28,56,Foul Won,89.1,36.2,From Counter,0,0
+3829472,7,27,Lyon,1,11,52,Pass,76.1,71.1,From Keeper,0,0
+3829444,7,27,Lyon,2,51,2,Pass,69.3,37.9,From Keeper,2,0
+3901168,7,27,Lille,2,53,36,Pass,76.3,16.4,From Keeper,0,0
+3901256,7,27,AS Monaco,2,75,30,Pass,79.1,47.0,From Keeper,2,0
+3901257,7,27,Saint-Étienne,2,96,30,Ball Receipt*,109.4,35.2,From Corner,-1,0
+3901257,7,27,Saint-Étienne,2,96,30,Duel,110.1,36.1,From Corner,-1,0
+3901257,7,27,Saint-Étienne,2,96,30,Block,109.4,35.2,From Corner,-1,0
+3901257,7,27,Saint-Étienne,2,96,30,Foul Committed,109.6,34.9,From Corner,-1,0
+3901237,7,27,Toulouse,1,4,30,Ball Recovery,94.2,55.3,Regular Play,0,0
+3901237,7,27,Toulouse,1,4,35,Pass,94.2,55.3,Regular Play,0,0
+3901153,7,27,OGC Nice,1,25,46,Pass,67.0,50.2,From Keeper,0,0
+3900602,7,27,Stade de Reims,2,69,27,Ball Receipt*,101.2,9.8,From Corner,-2,0
+3900602,7,27,Stade de Reims,2,70,15,Ball Receipt*,91.3,18.2,Regular Play,-2,0
+3900602,7,27,Stade de Reims,2,76,36,Ball Receipt*,107.9,24.6,From Corner,-2,0
+3900602,7,27,Stade de Reims,2,82,8,Ball Receipt*,96.4,54.3,From Free Kick,-2,0
+3900602,7,27,Stade de Reims,2,82,48,Ball Receipt*,95.8,56.4,From Free Kick,-2,0
+3900602,7,27,Stade de Reims,2,86,2,Ball Receipt*,81.8,42.2,Regular Play,-2,0
+3900602,7,27,Stade de Reims,2,86,32,Ball Receipt*,111.5,4.0,From Free Kick,-2,0
+3900602,7,27,Stade de Reims,2,92,26,Ball Receipt*,94.3,2.7,From Throw In,-2,0
+3900595,7,27,Lorient,2,92,11,Pass,62.5,71.6,From Free Kick,-1,0
+3900549,7,27,Saint-Étienne,2,54,51,Pass,66.6,30.2,Regular Play,-1,0
+3900491,7,27,Saint-Étienne,2,76,6,Ball Receipt*,96.3,75.0,From Throw In,2,0
+3900566,7,27,Stade de Reims,2,61,27,Ball Receipt*,82.0,60.9,From Throw In,-1,0
+3900566,7,27,Stade de Reims,2,61,27,Pass,82.0,60.9,From Throw In,-1,0
+3900543,7,27,Stade de Reims,1,30,6,Ball Receipt*,104.6,42.6,Regular Play,0,0
+3900516,7,27,Olympique de Marseille,1,41,58,Pass,66.1,23.1,Regular Play,1,0
+3900513,7,27,Lille,1,15,25,Pass,84.7,75.5,From Free Kick,1,0
+3900509,7,27,Saint-Étienne,1,16,27,Ball Receipt*,110.3,37.2,From Corner,0,0
+3900509,7,27,Saint-Étienne,1,16,27,Duel,111.7,37.6,From Corner,0,0
+3900493,7,27,Troyes,2,91,35,Ball Receipt*,101.5,45.5,From Free Kick,-1,-1
+3829451,7,27,Saint-Étienne,1,34,7,Ball Receipt*,75.8,14.5,From Throw In,1,1
+3829458,7,27,Toulouse,1,26,17,Pass,79.0,56.2,From Free Kick,0,0
+3829453,7,27,Bordeaux,2,85,32,Ball Receipt*,63.3,9.9,From Goal Kick,0,-1
+3829453,7,27,Bordeaux,2,88,57,Ball Receipt*,108.4,78.5,From Throw In,0,-1
+3829453,7,27,Bordeaux,2,89,26,Ball Receipt*,113.1,78.8,From Throw In,0,-1
+3915998,49,107,NJ/NY Gotham FC,1,0,16,Ball Recovery,62.5,38.7,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,0,16,Carry,62.5,38.7,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,0,16,Dribble,62.5,37.1,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,0,16,Carry,62.5,37.1,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,0,18,Pass,61.3,26.3,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,5,44,Pass,74.4,57.8,Other,0,0
+3915998,49,107,NJ/NY Gotham FC,1,8,15,Ball Recovery,77.9,29.2,From Throw In,0,0
+3915998,49,107,NJ/NY Gotham FC,1,8,15,Carry,77.9,29.2,From Throw In,0,0
+3915998,49,107,NJ/NY Gotham FC,1,8,17,Pass,76.9,32.6,From Throw In,0,0
+3915998,49,107,NJ/NY Gotham FC,1,9,7,Clearance,68.0,15.2,From Throw In,0,0
+3915998,49,107,NJ/NY Gotham FC,1,11,39,Ball Receipt*,66.4,57.7,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,11,39,Carry,66.4,57.7,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,11,40,Pass,65.2,55.3,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,15,39,Pass,62.8,46.3,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,19,29,Ball Receipt*,64.8,28.1,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,19,29,Carry,64.8,28.1,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,19,32,Pass,63.3,44.6,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,22,11,Ball Receipt*,66.4,69.5,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,22,11,Pass,66.4,69.5,Regular Play,0,0
+3915998,49,107,NJ/NY Gotham FC,1,37,34,Pass,101.1,0.1,From Throw In,0,0
+3915998,49,107,NJ/NY Gotham FC,2,50,40,Pressure,72.4,59.2,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,50,47,Ball Receipt*,74.3,59.0,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,50,47,Carry,74.3,59.0,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,50,48,Pass,74.3,59.0,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,54,25,Pressure,72.6,44.4,From Goal Kick,1,0
+3915998,49,107,NJ/NY Gotham FC,2,54,25,Duel,74.5,46.1,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,54,25,Carry,74.5,46.1,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,54,27,Pass,75.1,48.7,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,54,33,Ball Receipt*,75.8,57.0,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,54,33,Carry,75.8,57.0,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,54,33,Pass,74.3,59.4,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,56,19,Pass,95.9,80.0,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,57,4,Pass,95.0,80.0,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,58,8,Duel,105.0,44.5,From Corner,1,0
+3915998,49,107,NJ/NY Gotham FC,2,71,56,Pass,96.9,0.1,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,1,Ball Receipt*,102.2,5.4,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,1,Carry,102.2,5.4,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,1,Pass,100.5,6.2,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,5,Ball Receipt*,101.7,4.3,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,5,Carry,101.7,4.3,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,6,Pass,101.5,4.3,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,11,Ball Receipt*,113.0,8.8,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,11,Carry,113.0,8.8,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,72,12,Pass,114.0,13.0,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,77,14,Clearance,64.1,67.4,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,82,53,Pressure,80.1,53.7,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,82,54,Block,86.0,56.8,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,83,51,Pass,112.1,0.1,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,86,33,Ball Receipt*,75.5,51.8,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,86,33,Carry,75.5,51.8,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,86,35,Pass,74.5,51.3,Regular Play,1,0
+3915998,49,107,NJ/NY Gotham FC,2,88,41,Pass,111.4,0.1,From Throw In,1,0
+3915998,49,107,NJ/NY Gotham FC,2,92,13,Ball Receipt*,62.6,45.1,From Free Kick,1,0
+3915998,49,107,NJ/NY Gotham FC,2,92,13,Pass,62.7,45.7,From Free Kick,1,0
+3915998,49,107,NJ/NY Gotham FC,2,92,16,Ball Recovery,63.4,43.7,From Free Kick,1,0
+3915998,49,107,NJ/NY Gotham FC,2,92,16,Carry,63.4,43.7,From Free Kick,1,0
+3915998,49,107,NJ/NY Gotham FC,2,92,17,Pass,63.6,44.2,From Free Kick,1,0
+3881563,49,107,KC Current,2,67,23,Ball Receipt*,93.1,16.5,From Throw In,1,0
+3881523,49,107,NJ/NY Gotham FC,1,19,16,Pass,67.3,77.1,From Keeper,0,0
+3881577,49,107,Orlando Pride,2,45,5,Pass,84.5,27.1,From Kick Off,2,0
+3881542,49,107,Angel City,1,40,40,Ball Receipt*,68.5,6.1,From Free Kick,-2,0
+3881544,49,107,Racing Louisville FC,1,10,6,Ball Receipt*,81.6,59.8,Regular Play,0,0
+3881544,49,107,Racing Louisville FC,1,10,6,Carry,81.6,59.8,Regular Play,0,0
+3881544,49,107,Racing Louisville FC,1,10,6,Pass,81.6,56.7,Regular Play,0,0
+3881611,49,107,Chicago Red Stars,2,78,45,Pass,72.3,44.6,From Free Kick,-3,0
+3881611,49,107,Chicago Red Stars,2,80,26,Ball Recovery,68.5,61.9,From Corner,-3,0
+3881611,49,107,Chicago Red Stars,2,80,26,Carry,68.5,61.9,From Corner,-3,0
+3881611,49,107,Chicago Red Stars,2,80,28,Pass,71.1,64.7,From Corner,-3,0
+3881595,49,107,North Carolina Courage,2,95,30,Ball Receipt*,63.8,42.3,Other,-1,-1
+3881595,49,107,North Carolina Courage,2,95,30,Carry,63.8,42.3,Other,-1,-1
+3881595,49,107,North Carolina Courage,2,95,33,Pass,62.3,48.3,Other,-1,-1
+3881568,49,107,KC Current,2,92,41,Ball Recovery,67.8,20.1,From Corner,-1,0
+3881568,49,107,KC Current,2,92,41,Carry,67.8,20.1,From Corner,-1,0
+3881568,49,107,KC Current,2,92,44,Pass,68.1,24.9,From Corner,-1,0
+3881509,49,107,Portland Thorns,2,96,17,Ball Recovery,116.6,35.3,From Corner,-1,0
+3881509,49,107,Portland Thorns,2,96,18,Shot,117.3,36.2,From Corner,-1,0
+3881498,49,107,Chicago Red Stars,2,82,6,Ball Receipt*,66.7,27.2,From Free Kick,3,0
+7479,49,3,Washington Spirit,2,93,53,Ball Receipt*,111.0,36.0,From Corner,-1,0
+7479,49,3,Washington Spirit,2,93,53,Shot,111.0,37.0,From Corner,-1,0
+7485,49,3,OL Reign,2,93,55,Ball Receipt*,108.0,30.0,From Corner,-1,0
+7485,49,3,OL Reign,2,93,55,Pass,108.0,30.0,From Corner,-1,0
+7474,49,3,Chicago Red Stars,2,64,7,Pass,99.0,56.0,From Free Kick,2,0
+3753983,2,27,Arsenal,1,39,45,Pass,66.8,8.3,From Free Kick,0,0
+3754042,2,27,Liverpool,2,54,55,Ball Receipt*,74.1,65.7,From Throw In,0,0
+3754226,2,27,Sunderland,2,95,17,Ball Receipt*,114.1,42.9,From Corner,-1,0
+3753974,2,27,Newcastle United,1,21,31,Dribbled Past,64.2,36.4,From Keeper,0,0
+3753978,2,27,Southampton,2,88,2,Pass,78.9,31.1,From Keeper,2,0
+3754099,2,27,Crystal Palace,2,73,7,Pass,71.3,57.3,From Throw In,1,0
+3754099,2,27,Crystal Palace,2,80,33,Pass,64.2,46.4,From Free Kick,1,0
+3754162,2,27,AFC Bournemouth,1,24,27,Pass,61.0,40.1,From Kick Off,0,0
+3754186,2,27,Leicester City,1,33,8,Ball Receipt*,106.3,78.8,From Free Kick,1,0
+3754208,2,27,Manchester City,1,8,37,Pass,74.0,65.2,From Kick Off,-1,0
+3754266,2,27,Watford,2,59,43,Pass,70.3,52.0,Regular Play,0,0
+3754235,2,27,West Bromwich Albion,1,24,28,Pass,64.9,41.2,From Free Kick,-1,0
+3754283,2,27,Aston Villa,2,57,11,Ball Recovery,89.6,52.9,Regular Play,-3,0
+3754247,2,27,Stoke City,2,77,30,Pass,68.1,0.6,From Free Kick,1,0
+3754003,2,27,Liverpool,1,24,55,Ball Receipt*,83.6,29.3,From Goal Kick,0,0
+3754203,2,27,West Ham United,1,0,34,Pass,92.3,80.0,From Throw In,0,0
+3754203,2,27,West Ham United,1,0,36,Ball Receipt*,83.5,77.4,From Throw In,0,0
+3754203,2,27,West Ham United,1,0,37,Pass,74.9,76.6,From Throw In,0,0
+3754203,2,27,West Ham United,1,4,34,Ball Receipt*,70.5,76.3,From Throw In,0,0
+3754203,2,27,West Ham United,1,4,34,Carry,70.5,76.3,From Throw In,0,0
+3754203,2,27,West Ham United,1,4,37,Pass,70.5,76.3,From Throw In,0,0
+3754203,2,27,West Ham United,1,12,16,Ball Receipt*,77.2,78.7,From Free Kick,0,0
+3754203,2,27,West Ham United,1,12,16,Carry,77.2,78.7,From Free Kick,0,0
+3754203,2,27,West Ham United,1,12,17,Pass,93.5,75.7,From Free Kick,0,0
+3754203,2,27,West Ham United,1,15,13,Pass,88.8,80.0,From Throw In,0,0
+3754203,2,27,West Ham United,1,15,14,Ball Receipt*,91.5,79.0,From Throw In,0,0
+3754203,2,27,West Ham United,1,15,14,Carry,91.5,79.0,From Throw In,0,0
+3754203,2,27,West Ham United,1,15,15,Pass,91.5,79.0,From Throw In,0,0
+3754203,2,27,West Ham United,1,15,32,Pass,76.9,80.0,From Throw In,0,0
+3754203,2,27,West Ham United,1,17,54,Pass,60.7,75.4,From Free Kick,0,0
+3754203,2,27,West Ham United,1,20,30,Ball Receipt*,83.5,76.9,From Throw In,0,0
+3754203,2,27,West Ham United,1,20,30,Carry,83.5,76.9,From Throw In,0,0
+3754203,2,27,West Ham United,1,20,32,Pass,83.5,76.9,From Throw In,0,0
+3754203,2,27,West Ham United,1,20,48,Ball Recovery,62.8,74.6,From Throw In,0,0
+3754203,2,27,West Ham United,1,20,48,Carry,62.8,74.6,From Throw In,0,0
+3754203,2,27,West Ham United,1,20,52,Pass,87.4,75.2,From Throw In,0,0
+3754203,2,27,West Ham United,1,21,24,Ball Receipt*,94.8,53.5,From Throw In,0,0
+3754203,2,27,West Ham United,1,21,24,Carry,94.8,53.5,From Throw In,0,0
+3754203,2,27,West Ham United,1,21,26,Shot,102.4,56.8,From Throw In,0,0
+3754203,2,27,West Ham United,1,23,23,Ball Receipt*,92.1,59.7,From Throw In,0,0
+3754203,2,27,West Ham United,1,23,23,Carry,92.1,59.7,From Throw In,0,0
+3754203,2,27,West Ham United,1,23,27,Pass,111.3,68.9,From Throw In,0,0
+3754203,2,27,West Ham United,1,28,0,Ball Receipt*,69.5,74.9,From Kick Off,-1,0
+3754203,2,27,West Ham United,1,28,0,Carry,69.5,74.9,From Kick Off,-1,0
+3754203,2,27,West Ham United,1,28,7,Pass,78.2,76.3,From Kick Off,-1,0
+3754203,2,27,West Ham United,1,36,41,Ball Receipt*,63.9,74.3,From Throw In,-1,0
+3754203,2,27,West Ham United,1,36,41,Carry,63.9,74.3,From Throw In,-1,0
+3754203,2,27,West Ham United,1,36,41,Pass,63.9,74.3,From Throw In,-1,0
+3754203,2,27,West Ham United,1,38,32,Pass,64.2,76.3,From Kick Off,-2,0
+3754203,2,27,West Ham United,1,38,34,Ball Receipt*,63.4,74.6,From Kick Off,-2,0
+3754203,2,27,West Ham United,1,38,34,Carry,63.4,74.6,From Kick Off,-2,0
+3754203,2,27,West Ham United,1,38,35,Pass,63.4,74.6,From Kick Off,-2,0
+3754203,2,27,West Ham United,1,38,51,Ball Receipt*,91.8,74.6,From Kick Off,-2,0
+3754203,2,27,West Ham United,1,38,51,Carry,91.8,74.6,From Kick Off,-2,0
+3754203,2,27,West Ham United,1,38,55,Pass,112.5,69.5,From Kick Off,-2,0
+3754203,2,27,West Ham United,1,39,21,Pressure,102.2,51.2,From Corner,-2,0
+3754203,2,27,West Ham United,1,39,22,Foul Committed,92.6,58.3,From Corner,-2,0
+3754203,2,27,West Ham United,1,42,8,Ball Receipt*,70.2,77.2,From Throw In,-2,0
+3754203,2,27,West Ham United,1,42,8,Pass,70.2,77.2,From Throw In,-2,0
+3754203,2,27,West Ham United,1,44,30,Ball Receipt*,77.5,77.2,From Free Kick,-2,0
+3754203,2,27,West Ham United,1,44,30,Carry,77.5,77.2,From Free Kick,-2,0
+3754203,2,27,West Ham United,1,44,30,Pass,77.5,77.2,From Free Kick,-2,0
+3754203,2,27,West Ham United,1,44,48,Ball Receipt*,78.2,75.2,From Free Kick,-2,0
+3754203,2,27,West Ham United,1,44,48,Carry,78.2,75.2,From Free Kick,-2,0
+3754203,2,27,West Ham United,1,44,52,Pass,87.1,73.6,From Free Kick,-2,0
+3754203,2,27,West Ham United,2,47,6,Ball Receipt*,63.7,75.7,From Throw In,-2,0
+3754203,2,27,West Ham United,2,47,6,Carry,63.7,75.7,From Throw In,-2,0
+3754203,2,27,West Ham United,2,47,10,Pass,62.6,61.4,From Throw In,-2,0
+3754203,2,27,West Ham United,2,47,33,Ball Receipt*,65.6,75.7,From Throw In,-2,0
+3754203,2,27,West Ham United,2,47,33,Carry,65.6,75.7,From Throw In,-2,0
+3754203,2,27,West Ham United,2,47,34,Dispossessed,72.0,74.5,From Throw In,-2,0
+3754203,2,27,West Ham United,2,47,56,Pass,83.0,80.0,From Throw In,-2,0
+3754203,2,27,West Ham United,2,47,59,Ball Receipt*,83.3,71.3,From Throw In,-2,0
+3754203,2,27,West Ham United,2,47,59,Pass,83.9,71.8,From Throw In,-2,0
+3754203,2,27,West Ham United,2,48,51,Ball Receipt*,64.1,71.4,Regular Play,-2,0
+3754203,2,27,West Ham United,2,48,51,Carry,64.1,71.4,Regular Play,-2,0
+3754203,2,27,West Ham United,2,48,55,Miscontrol,98.7,72.6,Regular Play,-2,0
+3754203,2,27,West Ham United,2,50,18,Pass,73.3,72.2,From Corner,-2,0
+3754203,2,27,West Ham United,2,50,46,Pass,80.6,80.0,From Throw In,-2,0
+3754203,2,27,West Ham United,2,50,50,Ball Receipt*,78.0,72.2,From Throw In,-2,0
+3754203,2,27,West Ham United,2,50,50,Carry,78.0,72.2,From Throw In,-2,0
+3754203,2,27,West Ham United,2,50,54,Pass,87.0,63.0,From Throw In,-2,0
+3754203,2,27,West Ham United,2,54,24,Ball Receipt*,86.8,47.6,From Free Kick,-2,0
+3754203,2,27,West Ham United,2,54,24,Carry,86.8,47.6,From Free Kick,-2,0
+3754203,2,27,West Ham United,2,54,25,Pass,86.8,50.1,From Free Kick,-2,0
+3754203,2,27,West Ham United,2,56,39,Ball Receipt*,94.7,74.3,From Throw In,-1,0
+3754203,2,27,West Ham United,2,56,39,Pass,94.9,73.9,From Throw In,-1,0
+3754203,2,27,West Ham United,2,57,26,Ball Receipt*,87.2,75.1,From Corner,-1,0
+3754203,2,27,West Ham United,2,57,31,Ball Receipt*,99.9,73.8,From Throw In,-1,0
+3754203,2,27,West Ham United,2,57,31,Carry,99.9,73.8,From Throw In,-1,0
+3754203,2,27,West Ham United,2,57,34,Pass,115.5,73.6,From Throw In,-1,0
+3754203,2,27,West Ham United,2,62,39,Ball Receipt*,80.3,74.3,From Throw In,-1,0
+3754203,2,27,West Ham United,2,62,39,Carry,80.3,74.3,From Throw In,-1,0
+3754203,2,27,West Ham United,2,62,41,Pass,78.0,73.8,From Throw In,-1,0
+3754203,2,27,West Ham United,2,71,42,Ball Receipt*,73.7,71.4,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,71,42,Carry,73.7,71.4,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,71,46,Pass,87.2,70.5,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,71,58,Ball Receipt*,84.3,74.3,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,71,58,Carry,84.3,74.3,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,72,0,Dribble,84.7,75.7,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,74,54,Ball Receipt*,60.4,54.7,Regular Play,-1,0
+3754203,2,27,West Ham United,2,74,54,Carry,60.4,54.7,Regular Play,-1,0
+3754203,2,27,West Ham United,2,74,56,Pass,71.8,53.0,Regular Play,-1,0
+3754203,2,27,West Ham United,2,77,1,Ball Receipt*,95.8,64.5,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,77,1,Carry,95.8,64.5,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,77,4,Dribble,103.5,66.8,From Goal Kick,-1,0
+3754203,2,27,West Ham United,2,77,4,Pressure,106.6,66.3,Regular Play,-1,0
+3754203,2,27,West Ham United,2,77,8,Pressure,108.0,74.7,Regular Play,-1,0
+3754203,2,27,West Ham United,2,77,10,Foul Committed,111.6,71.3,Regular Play,-1,0
+3754203,2,27,West Ham United,2,79,17,Pass,66.2,80.0,From Throw In,-1,0
+3754203,2,27,West Ham United,2,80,11,Pass,108.7,80.0,From Throw In,-1,0
+3754203,2,27,West Ham United,2,80,37,Ball Receipt*,114.3,67.0,From Throw In,-1,0
+3754203,2,27,West Ham United,2,80,37,Carry,114.3,67.0,From Throw In,-1,0
+3754203,2,27,West Ham United,2,80,38,Pass,116.0,68.2,From Throw In,-1,0
+3754203,2,27,West Ham United,2,83,2,Ball Receipt*,109.5,68.6,From Throw In,-1,0
+3754203,2,27,West Ham United,2,83,2,Carry,109.5,68.6,From Throw In,-1,0
+3754203,2,27,West Ham United,2,83,3,Pass,115.7,65.9,From Throw In,-1,0
+3754203,2,27,West Ham United,2,84,12,Ball Receipt*,80.6,63.0,Regular Play,-1,0
+3754203,2,27,West Ham United,2,84,12,Carry,80.6,63.0,Regular Play,-1,0
+3754203,2,27,West Ham United,2,84,13,Pass,79.1,63.4,Regular Play,-1,0
+3754203,2,27,West Ham United,2,84,37,Ball Receipt*,83.0,72.4,Regular Play,-1,0
+3754203,2,27,West Ham United,2,84,37,Carry,83.0,72.4,Regular Play,-1,0
+3754203,2,27,West Ham United,2,84,38,Pass,84.7,71.8,Regular Play,-1,0
+3754203,2,27,West Ham United,2,84,54,Ball Receipt*,96.0,61.4,Regular Play,-1,0
+3754203,2,27,West Ham United,2,84,54,Carry,96.0,61.4,Regular Play,-1,0
+3754203,2,27,West Ham United,2,84,55,Pass,97.4,59.9,Regular Play,-1,0
+3754203,2,27,West Ham United,2,85,26,Ball Receipt*,77.4,68.4,Regular Play,-1,0
+3754203,2,27,West Ham United,2,85,26,Carry,77.4,68.4,Regular Play,-1,0
+3754203,2,27,West Ham United,2,85,28,Pass,77.6,68.2,Regular Play,-1,0
+3754203,2,27,West Ham United,2,85,49,Ball Receipt*,63.9,70.1,Regular Play,-1,0
+3754203,2,27,West Ham United,2,85,49,Carry,63.9,70.1,Regular Play,-1,0
+3754203,2,27,West Ham United,2,85,50,Pass,63.9,69.7,Regular Play,-1,0
+3754203,2,27,West Ham United,2,85,53,Ball Receipt*,67.0,69.5,Regular Play,-1,0
+3754203,2,27,West Ham United,2,85,54,Pass,67.0,69.5,Regular Play,-1,0
+3754203,2,27,West Ham United,2,87,38,Ball Receipt*,95.5,73.0,Regular Play,-1,0
+3754203,2,27,West Ham United,2,87,38,Carry,95.5,73.0,Regular Play,-1,0
+3754203,2,27,West Ham United,2,87,38,Pass,95.3,73.0,Regular Play,-1,0
+3754203,2,27,West Ham United,2,88,33,Pressure,108.7,69.9,From Free Kick,-1,0
+3754203,2,27,West Ham United,2,89,5,Ball Receipt*,85.3,63.8,Regular Play,-1,0
+3754203,2,27,West Ham United,2,89,5,Carry,85.3,63.8,Regular Play,-1,0
+3754203,2,27,West Ham United,2,89,6,Pass,85.8,63.8,Regular Play,-1,0
+3754203,2,27,West Ham United,2,90,20,Ball Receipt*,118.2,56.8,From Free Kick,-1,0
+3754203,2,27,West Ham United,2,90,20,Pass,118.2,57.2,From Free Kick,-1,0
+3754203,2,27,West Ham United,2,90,23,Pass,116.8,60.3,From Free Kick,-1,0
+3754203,2,27,West Ham United,2,90,42,Ball Receipt*,112.2,67.8,From Free Kick,-1,0
+3754203,2,27,West Ham United,2,90,42,Pass,115.7,68.0,From Free Kick,-1,0
+3754203,2,27,West Ham United,2,91,3,Foul Committed,96.2,34.3,From Corner,-1,0
+3753976,2,27,Arsenal,2,95,20,Goal Keeper,69.9,31.1,Regular Play,-1,0
+3753991,2,27,Liverpool,2,46,32,Ball Recovery,65.9,4.4,Regular Play,2,0
+3753991,2,27,Liverpool,2,46,32,Carry,65.9,4.4,Regular Play,2,0
+3754016,2,27,Newcastle United,2,92,29,Goal Keeper,76.4,79.1,From Throw In,-2,0
+3754024,2,27,Swansea City,1,34,31,Ball Receipt*,100.1,50.9,From Throw In,0,0
+3754120,2,27,West Ham United,1,21,21,Pass,66.9,39.9,From Free Kick,-1,0
+3754151,2,27,Swansea City,1,5,38,Pass,68.3,10.0,From Keeper,0,0
+3754144,2,27,AFC Bournemouth,1,35,27,Ball Receipt*,93.0,73.2,From Throw In,-3,0
+3754144,2,27,AFC Bournemouth,1,35,27,Carry,93.0,73.2,From Throw In,-3,0
+3754155,2,27,West Bromwich Albion,2,75,36,Pass,88.0,56.3,Regular Play,-1,0
+3754184,2,27,Norwich City,2,94,5,Pass,85.2,28.7,From Free Kick,-1,0
+3754199,2,27,West Ham United,2,96,11,Ball Receipt*,111.4,27.7,From Free Kick,-1,0
+3754199,2,27,West Ham United,2,96,11,Shot,114.8,31.6,From Free Kick,-1,0
+3754243,2,27,Newcastle United,2,50,48,Ball Recovery,107.9,40.8,From Free Kick,-1,0
+3754243,2,27,Newcastle United,2,51,1,Pass,107.9,40.8,From Free Kick,-1,0
+3754261,2,27,Arsenal,2,70,38,Ball Recovery,84.5,31.0,Regular Play,0,1
+3754303,2,27,Crystal Palace,2,69,11,Pass,84.7,35.8,From Keeper,0,0
+3754319,2,27,Swansea City,2,94,47,Ball Receipt*,111.2,43.6,From Corner,-1,0
+3754319,2,27,Swansea City,2,94,47,Shot,111.8,40.7,From Corner,-1,0
+3749642,2,44,Arsenal,1,24,25,Ball Receipt*,67.7,14.7,From Throw In,2,0
+3749276,2,44,Arsenal,2,80,35,Goal Keeper,64.2,58.7,From Free Kick,1,1
+3879699,12,27,Sampdoria,1,18,20,Pass,61.0,40.1,From Kick Off,-2,0
+3879556,12,27,Frosinone,2,56,9,Pass,79.3,4.2,From Keeper,0,0
+3879784,12,27,Genoa,2,60,24,Ball Receipt*,93.0,37.3,Regular Play,0,0
+3879740,12,27,Empoli,2,94,40,Ball Receipt*,113.4,43.1,From Corner,-1,0
+3879740,12,27,Empoli,2,94,40,Shot,113.4,43.1,From Corner,-1,0
+3879704,12,27,Carpi,2,70,6,Ball Receipt*,79.3,24.7,Regular Play,-1,0
+3879636,12,27,Fiorentina,1,24,44,Ball Receipt*,77.3,70.1,From Throw In,1,0
+3878610,12,27,Hellas Verona,1,24,21,Ball Recovery,60.3,79.7,Regular Play,0,0
+3878610,12,27,Hellas Verona,2,58,52,Pass,82.1,4.0,From Free Kick,0,0
+3879869,12,27,AS Roma,1,31,3,Pass,115.2,59.0,From Free Kick,1,0
+3879852,12,27,Palermo,1,14,56,Ball Receipt*,108.3,23.5,From Free Kick,0,0
+3879852,12,27,Sampdoria,1,38,29,Ball Receipt*,69.7,28.1,Regular Play,-1,0
+3879808,12,27,Frosinone,2,93,42,Pass,65.9,37.9,From Free Kick,-1,-1
+3879729,12,27,Palermo,2,93,39,Pass,73.5,80.0,From Throw In,0,-1
+3879721,12,27,AC Milan,2,60,24,Ball Receipt*,104.4,15.2,From Throw In,2,0
+3879721,12,27,AC Milan,2,67,4,Ball Receipt*,101.6,30.8,From Throw In,2,0
+3879721,12,27,AC Milan,2,70,20,Ball Receipt*,108.7,48.1,From Free Kick,2,0
+3879721,12,27,AC Milan,2,72,29,Ball Receipt*,76.3,4.8,Regular Play,2,0
+3879676,12,27,AS Roma,2,86,54,Pass,73.5,76.3,From Free Kick,0,0
+3879651,12,27,AS Roma,1,2,2,Ball Receipt*,75.6,40.1,From Goal Kick,0,0
+3879650,12,27,Empoli,2,81,59,Ball Receipt*,68.6,75.0,From Free Kick,3,0
+3879640,12,27,Frosinone,2,85,4,Ball Receipt*,81.3,34.1,Regular Play,0,0
+3879596,12,27,Sampdoria,2,94,13,Pass,63.1,12.0,From Free Kick,0,1
+3879588,12,27,Lazio,2,60,23,Ball Receipt*,76.9,71.4,Regular Play,1,0
+3879555,12,27,Sampdoria,2,65,59,Pass,75.5,42.5,From Free Kick,-1,0
+3879560,12,27,Frosinone,2,92,48,Pass,61.3,6.8,From Free Kick,-1,0
+3879538,12,27,Lazio,2,68,6,Ball Receipt*,112.4,47.4,From Throw In,2,1
+3878550,12,27,Bologna,2,93,30,Duel,111.6,32.9,From Corner,-1,0
+3912493,131,281,AS Roma W,2,47,28,Ball Receipt*,110.8,48.5,Regular Play,1,0
+3912524,131,281,AC Milan W,2,93,36,Ball Receipt*,62.9,35.0,From Corner,-1,0
+3912524,131,281,AC Milan W,2,93,36,Carry,62.9,35.0,From Corner,-1,0
+3912524,131,281,AC Milan W,2,93,38,Pass,63.4,44.9,From Corner,-1,0
+3928996,131,281,Napoli W,1,39,50,Pass,64.0,55.8,From Free Kick,0,0
+3929018,131,281,Como W,2,48,6,Pass,67.0,39.0,Regular Play,0,0
+3928999,131,281,Pomigliano,1,27,20,Duel,65.7,47.9,From Keeper,0,0
+3912512,131,281,FC Internazionale Milano W,2,76,18,Ball Receipt*,83.6,4.6,From Throw In,-1,0
+3912512,131,281,FC Internazionale Milano W,2,76,42,Ball Receipt*,81.0,4.7,From Throw In,-1,0
+3912512,131,281,FC Internazionale Milano W,2,80,13,Ball Receipt*,78.6,34.7,From Kick Off,0,0
+3912512,131,281,FC Internazionale Milano W,2,80,37,Ball Receipt*,89.2,29.4,From Free Kick,0,0
+3912512,131,281,FC Internazionale Milano W,2,80,50,Ball Receipt*,110.9,45.0,From Free Kick,0,0
+3912512,131,281,FC Internazionale Milano W,2,84,23,Ball Receipt*,116.4,38.2,From Corner,0,0
+3912512,131,281,FC Internazionale Milano W,2,95,26,Ball Receipt*,108.5,38.4,From Corner,0,0
+3912508,131,281,Pomigliano,2,46,54,Ball Receipt*,102.3,12.3,From Throw In,0,0
+3912491,131,281,Sassuolo W,2,75,6,Ball Recovery,101.5,8.8,From Corner,0,0
+3912491,131,281,Sassuolo W,2,75,6,Carry,101.5,8.8,From Corner,0,0
+3912491,131,281,Sassuolo W,2,75,9,Dispossessed,103.7,4.2,From Corner,0,0
+3930171,55,282,England,2,91,34,Pass,63.3,36.3,From Free Kick,0,0
+3942349,55,282,Portugal,2,53,18,Ball Receipt*,99.8,9.9,From Throw In,0,0
+3794688,55,43,Germany,2,93,36,Ball Receipt*,66.7,10.3,From Throw In,-2,0
+3794688,55,43,Germany,2,93,36,Carry,66.7,10.3,From Throw In,-2,0
+3794688,55,43,Germany,2,93,38,Pass,70.4,8.2,From Throw In,-2,0
+3788757,55,43,Denmark,2,94,18,Ball Receipt*,113.0,42.7,From Free Kick,-1,0
+3788757,55,43,Denmark,2,94,18,Duel,112.5,45.1,From Free Kick,-1,0
+3788757,55,43,Denmark,2,94,30,Goal Keeper,64.8,37.2,Regular Play,-1,0
+3788752,55,43,Portugal,1,7,5,Ball Recovery,90.2,75.9,Regular Play,0,0
+3788752,55,43,Portugal,1,7,5,Carry,90.2,75.9,Regular Play,0,0
+3788751,55,43,Germany,2,63,15,Pass,63.2,24.1,From Corner,-1,0
+3788742,55,43,Denmark,2,50,4,Ball Receipt*,97.1,15.7,From Corner,0,0
+4020077,53,315,Germany Women's,2,65,53,Goal Keeper,69.5,56.0,From Keeper,0,0
+4020077,53,315,Germany Women's,2,65,53,Carry,69.5,56.0,From Keeper,0,0
+4020077,53,315,Germany Women's,2,65,53,Pass,69.3,56.0,From Keeper,0,0
+4018355,53,315,England Women's,4,122,27,Pass,65.9,23.6,From Free Kick,0,0
+3998856,53,315,Germany Women's,2,52,55,Goal Keeper,62.1,52.6,From Keeper,-2,-1
+3998849,53,315,Germany Women's,1,11,45,Goal Keeper,63.4,27.8,From Keeper,0,0
+3998849,53,315,Germany Women's,1,11,45,Carry,63.4,27.8,From Keeper,0,0
+3998849,53,315,Germany Women's,1,11,47,Pass,63.8,32.4,From Keeper,0,0
+3998845,53,315,WNT Finland,2,92,54,Ball Receipt*,96.9,11.9,From Corner,-1,0
+3998845,53,315,WNT Finland,2,92,54,Carry,96.9,11.9,From Corner,-1,0
+3998845,53,315,WNT Finland,2,92,54,Pass,96.9,11.9,From Corner,-1,0
+3998845,53,315,WNT Finland,2,92,59,Ball Recovery,96.4,1.7,From Corner,-1,0
+3998845,53,315,WNT Finland,2,92,59,Carry,96.4,1.7,From Corner,-1,0
+3998845,53,315,WNT Finland,2,92,59,Pass,96.4,1.7,From Corner,-1,0
+3835330,53,106,Spain Women's,2,75,42,Duel,113.8,40.3,From Free Kick,-2,0
+3835337,53,106,Spain Women's,1,10,50,Dribbled Past,76.2,75.0,From Throw In,0,0
+3893819,72,107,Korea Republic Women's,2,45,15,Ball Recovery,87.8,17.7,Regular Play,-1,0
+3893819,72,107,Korea Republic Women's,2,45,15,Carry,87.8,17.7,Regular Play,-1,0
+3893819,72,107,Korea Republic Women's,2,45,16,Dribble,87.8,17.7,Regular Play,-1,0
+3893819,72,107,Korea Republic Women's,2,45,17,Ball Recovery,78.8,16.4,Regular Play,-1,0
+3893819,72,107,Korea Republic Women's,2,45,17,Carry,78.8,16.4,Regular Play,-1,0
+3893819,72,107,Korea Republic Women's,2,45,20,Pass,80.9,24.5,Regular Play,-1,0
+3893800,72,107,Italy Women's,1,6,47,Ball Receipt*,63.6,15.2,From Free Kick,0,0
+3893800,72,107,Italy Women's,1,6,47,Carry,63.6,15.2,From Free Kick,0,0
+3893800,72,107,Italy Women's,1,6,48,Pass,63.2,16.0,From Free Kick,0,0
+3901833,72,107,France Women's,2,84,15,Ball Receipt*,100.4,39.3,From Free Kick,4,0
+3893823,72,107,Costa Rica Women's,2,48,53,Ball Receipt*,105.1,30.1,From Throw In,-1,0
+3893820,72,107,Philippines Women's,2,86,9,Pass,69.7,28.2,From Free Kick,-5,-1
+3893817,72,107,New Zealand Women's,2,92,33,Ball Receipt*,110.4,42.1,From Corner,0,0
+3893817,72,107,New Zealand Women's,2,92,33,Duel,111.2,43.8,From Corner,0,0
+3893817,72,107,New Zealand Women's,2,95,6,Ball Receipt*,110.6,39.5,From Free Kick,0,0
+3893817,72,107,New Zealand Women's,2,95,6,Shot,110.6,39.5,From Free Kick,0,0
+3901735,72,107,Nigeria Women's,1,26,3,Ball Receipt*,61.2,7.7,From Throw In,0,0
+69163,72,30,Canada Women's,2,89,54,Pass,62.4,4.3,From Free Kick,-1,0
+3893789,72,107,Philippines Women's,2,85,28,Pass,73.1,63.7,From Free Kick,-2,0
+68346,72,30,New Zealand Women's,2,93,28,Pass,65.0,77.0,From Free Kick,0,0
+69208,72,30,Sweden Women's,1,28,23,Ball Recovery,63.2,15.7,From Throw In,0,0
+69208,72,30,Sweden Women's,1,28,23,Carry,63.2,15.7,From Throw In,0,0
+68344,72,30,Netherlands Women's,1,29,7,Pass,116.2,73.5,From Free Kick,0,0
+22936,72,30,England Women's,2,53,22,Ball Receipt*,85.1,26.2,Regular Play,2,0
