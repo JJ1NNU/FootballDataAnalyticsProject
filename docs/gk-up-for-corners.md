@@ -53,7 +53,7 @@
   - 360 프레임에서 **공격팀 골키퍼의 위치**(x > 90, 즉 상대 진영 깊숙이)
   - 같은 점유에서 **공격팀 골키퍼가 상대 박스 근처에서 이벤트를 기록**했는지(헤더·슈팅·경합 등)
   - 코너 후 30초 안의 공격팀 xG·득점, 상대팀 xG·득점(역습), 코너 순간 점수차
-- 스크립트: [`scripts/gk_corners.py`](../scripts/gk_corners.py) (`python3 scripts/gk_corners.py corners.csv`).
+- 스크립트: [`scripts/gk_corner/pilot_scan_360.py`](../scripts/gk_corner/pilot_scan_360.py) (`python3 scripts/gk_corner/pilot_scan_360.py corners.csv`). 전체 데이터 파이프라인은 [`gk-corner-experiment-plan.md`](./gk-corner-experiment-plan.md) 참고.
 
 ### 결과
 | 항목 | 수치 |
