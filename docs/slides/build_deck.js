@@ -1,4 +1,4 @@
-// Builds docs/slides/gk_corner_proposal.pptx (proposal talk, 12 slides + appendix).
+// First draft builder (superseded for slides 3+ by revise_deck.py, which keeps the user-edited slides 1-2).
 // Usage: NODE_PATH=<dir with pptxgenjs> node docs/slides/build_deck.js
 // Layout and text only; dashed boxes marked "직접 넣기" are for material to add by hand.
 const path = require("path");
