@@ -181,23 +181,23 @@ body.push(table(["데이터", "경기당 행동", "90분당 행동", "패스 비
 body.push(caption("표 7. 행동 수와 종류 분포 (돌파 = take_on, 운반 = dribble)"));
 body.push(image("q2_actions_per_game.png", 400));
 body.push(caption("그림 2. 경기당 SPADL 행동 수 (양 팀 합계)"));
+body.push(image("q2_action_types.png", 520));
+body.push(caption("그림 3. 행동 종류 분포 (전체 행동 대비 %, 운반 = dribble, 돌파 = take_on)"));
 body.push(H2("2-2. 행동 10개 안에 득점/실점이 나온 비율"));
 const lr = [["Cruyff games", "크루이프 10경기"], ["Ronaldinho games", `호나우지뉴 ${S_R.games}경기`], ["Model train (meta)", "모델 학습 데이터 (2020년대)"], ["WC2018 test (meta)", "2018 월드컵 테스트"]]
   .map(([k, n]) => { const r = lab(k); return [n, r.n_actions ? r.n_actions : "–", pct(r["P(scores)_%"], 3), pct(r["P(concedes)_%"], 3), r.goals_per_game ? f(r.goals_per_game, 2) : "–"]; });
 body.push(table(["데이터", "행동 수", "10개 안 득점 비율", "10개 안 실점 비율", "경기당 골"], lr, [30, 14, 18, 18, 14]));
 body.push(caption("표 8. 라벨 비율 (lab.scores / lab.concedes). 학습·테스트 값은 제공 모델 meta에 기록된 값"));
 body.push(H2("2-3. 제공 모델의 AUC와 Brier score"));
-const mrow = (r, n) => [n, r.label === "scores" ? "득점" : "실점", r.n_pos ?? "–", pct(100 * r.base_rate, 3), r.mean_pred ? pct(100 * r.mean_pred, 3) : "–", f(r.auc), r.auc_95ci || "–", f(r.brier_score, 4), r.brier_95ci || "–", f(r.BSS)];
-body.push(table(["데이터", "모델", "양성 수", "실제 비율", "평균 예측", "AUC", "AUC 95% 구간", "Brier", "Brier 95% 구간", "BSS"],
-  [mrow(MCs, "크루이프"), mrow(MRs, "호나우지뉴"), mrow(MWs, "WC2018"), mrow(MCc, "크루이프"), mrow(MRc, "호나우지뉴"), mrow(MWc, "WC2018")],
-  [12, 7, 8, 10, 10, 8, 14, 9, 14, 8], { size: 15 }));
-body.push(caption("표 9. 모델 성능 (95% 구간은 경기 단위 부트스트랩 1,000회, BSS = 1 − Brier / [기저율×(1−기저율)])"));
-body.push(image("q2_calibration.png", 560));
-body.push(caption("그림 3. 신뢰도 곡선: 예측 확률 구간별 실제 비율 (점선이 완벽한 보정)"));
+const mrow = (r, n) => [n, r.label === "scores" ? "득점" : "실점", f(r.auc), f(r.brier_score, 4)];
+body.push(table(["데이터", "모델", "AUC", "Brier score"],
+  [mrow(MCs, "크루이프 10경기"), mrow(MRs, `호나우지뉴 ${S_R.games}경기`), mrow(MWs, "2018 월드컵 (meta)"), mrow(MCc, "크루이프 10경기"), mrow(MRc, `호나우지뉴 ${S_R.games}경기`), mrow(MWc, "2018 월드컵 (meta)")],
+  [40, 15, 20, 25]));
+body.push(caption("표 9. 제공 모델의 AUC와 Brier score (2018 월드컵 값은 제공 모델 meta에 기록된 원래 테스트 성능)"));
 body.push(P([B("무엇이 다른가. "),
   `① 크루이프 경기는 경기당 행동이 ${f(DC.actions_per_game, 0)}개로 호나우지뉴 경기(${f(DR.actions_per_game, 0)}개)보다 적고 패스 성공률이 낮다(${pct(DC["pass_success_%"])} vs ${pct(DR["pass_success_%"])}). 패스 비율은 거의 같고, 돌파(${pct(DC["take_on_%"], 2)} vs ${pct(DR["take_on_%"], 2)})와 슛(${pct(DC["shot_%"], 2)} vs ${pct(DR["shot_%"], 2)}) 비율은 크루이프 경기가 조금 높다. 선수 본인만 보면 크루이프는 돌파 비율(${pct(DCo["take_on_%"], 2)})과 돌파 성공률(${pct(DCo["take_on_success_%"])})이 호나우지뉴(${pct(DRo["take_on_%"], 2)}, ${pct(DRo["take_on_success_%"])})보다 높고, 패스 성공률(${pct(DCo["pass_success_%"])} vs ${pct(DRo["pass_success_%"])})과 슛 비율은 낮다. `,
   `② 행동 10개 안 득점 비율은 ${pct(lab("Cruyff games")["P(scores)_%"], 2)}와 ${pct(lab("Ronaldinho games")["P(scores)_%"], 2)}, 실점 비율은 ${pct(lab("Cruyff games")["P(concedes)_%"], 2)}와 ${pct(lab("Ronaldinho games")["P(concedes)_%"], 2)}로 학습 데이터와 비슷하다. 라벨 기저율은 시대 차이가 거의 없다. `,
-  `③ 득점 모델 AUC는 크루이프 경기 ${f(MCs.auc)}, 호나우지뉴 경기 ${f(MRs.auc)}, 2018 월드컵 ${f(MWs.auc)} 순이다. 크루이프 경기에서 변별력이 가장 낮지만 BSS는 ${f(MCs.BSS)}로 호나우지뉴(${f(MRs.BSS)})와 비슷하고, 평균 예측(${pct(100 * MCs.mean_pred, 2)})도 실제 비율(${pct(100 * MCs.base_rate, 2)})에 가깝다. 반면 실점 모델은 크루이프 경기의 양성이 ${MCc.n_pos}개뿐이라 AUC 95% 구간이 ${MCc.auc_95ci}로 매우 넓고, BSS가 ${f(MCc.BSS)}로 기저율만 예측하는 것보다 못하다. 따라서 크루이프의 수비 가치(실점 확률 변화)는 믿을 근거가 약하다.`]));
+  `③ 득점 모델 AUC는 크루이프 경기 ${f(MCs.auc)}, 호나우지뉴 경기 ${f(MRs.auc)}, 2018 월드컵 ${f(MWs.auc)}로 크루이프 경기에서 가장 낮지만 큰 차이는 아니다. Brier score는 ${f(MCs.brier_score, 4)}, ${f(MRs.brier_score, 4)}, ${f(MWs.brier_score, 4)}로 비슷하다. 실점 모델 AUC는 크루이프 경기 ${f(MCc.auc)}로 호나우지뉴 경기(${f(MRc.auc)})보다 낮다.`]));
 
 body.push(H2("2-4. 주장 분류"));
 body.push(table(["주장", "분류"], [
@@ -206,9 +206,9 @@ body.push(table(["주장", "분류"], [
   ["③ 이 패스의 VAEP +0.03은 그 패스가 실제로 만든 가치와 같다.", "현재 데이터로는 불가"],
 ], [75, 25], { leftCols: [1] }));
 body.push(caption("표 10. 주장 분류"));
-body.push(P([B("① 직접 검증 가능. "), `크루이프 경기에도 '행동 10개 안에 득점했는가'라는 실제 라벨이 있으므로 예측 확률과 바로 비교할 수 있다. 실제로 AUC ${f(MCs.auc)}(95% 구간 ${MCs.auc_95ci}), Brier ${f(MCs.brier_score, 4)}, BSS ${f(MCs.BSS)}를 계산했다. 결과는 '잘 맞는다'에 가깝지만 2018 월드컵(${f(MWs.auc)})보다 변별력이 낮고, 신뢰도 곡선에서 예측 확률 5~10% 구간이 실제보다 높게 예측된다. 득점 라벨 양성이 ${MCs.n_pos}개라 구간이 넓다는 점도 함께 적어야 한다.`]));
+body.push(P([B("① 직접 검증 가능. "), `크루이프 경기에도 '행동 10개 안에 득점했는가'라는 실제 라벨이 있으므로 모델이 예측한 득점 확률과 바로 비교해 채점할 수 있다. 실제로 계산한 결과 AUC ${f(MCs.auc)}, Brier score ${f(MCs.brier_score, 4)}로, 2018 월드컵(${f(MWs.auc)}, ${f(MWs.brier_score, 4)})보다 변별력은 조금 낮지만 대체로 맞는다고 볼 수 있다. 다만 이 판단에는 두 가지 단서가 붙는다. 첫째, 크루이프 데이터는 10경기뿐이라 득점 라벨이 붙은 행동이 ${lab("Cruyff games").n_actions}개 중 ${pct(lab("Cruyff games")["P(scores)_%"], 3)}(약 ${Math.round(lab("Cruyff games").n_actions * lab("Cruyff games")["P(scores)_%"] / 100)}개)에 불과하다. 경기 몇 개가 바뀌면 AUC가 꽤 달라질 수 있는 작은 표본이다. 둘째, Brier score는 0에 가까울수록 좋은 지표지만 득점이 행동의 1% 남짓인 드문 사건이라 모든 행동에 0에 가까운 확률만 말해도 작게 나온다. 그래서 0.0098이라는 절댓값만으로 '잘 맞는다'고 할 수는 없고, 같은 모델을 다른 데이터에 적용한 값(호나우지뉴 ${f(MRs.brier_score, 4)}, 2018 월드컵 ${f(MWs.brier_score, 4)})과 비교해 판단해야 한다. 이 주장은 득점 모델에 대한 것이고, 실점 라벨은 ${pct(lab("Cruyff games")["P(concedes)_%"], 3)}(약 ${Math.round(lab("Cruyff games").n_actions * lab("Cruyff games")["P(concedes)_%"] / 100)}개)로 더 적어 실점 모델의 크루이프 경기 성능(AUC ${f(MCc.auc)})은 훨씬 불확실하다.`]));
 body.push(P([B("② 현재 데이터로는 불가. "), `'90분당 VAEP가 높다'는 계산할 수 있지만 '더 좋은 선수'에는 정답 라벨이 없어 어떤 데이터로도 직접 맞춰 볼 수 없다. 게다가 이 비교에는 차이를 만드는 다른 원인이 섞여 있다. 크루이프는 결승·월드컵 위주 10경기(${S_C.minutes}분), 호나우지뉴는 라리가 ${S_R.games}경기(${S_R.minutes}분)이고, 두 시대의 데이터 분포(표 7)가 다르며, 모델은 2020년대 리그로 학습했다. 90분당 값의 95% 구간도 서로 겹친다(표 3). VAEP는 온 볼 행동만 평가하므로 공간 창출·압박 같은 오프 더 볼 기여도 빠진다. 따라서 숫자는 주장 ②의 결론을 뒷받침하지 못한다.`]));
-body.push(P([B("③ 현재 데이터로는 불가. "), "한 패스가 '실제로 만든 가치'는 그 패스를 하지 않았을 때와의 차이(반사실)인데, 이는 관측되지 않는다. 한 번의 패스 뒤에는 득점했다/안 했다는 0/1 결과만 남으므로 +0.03 같은 연속값을 개별 행동 단위로 채점할 수 없다. 간접적으로 확인할 수 있는 것은 '비슷한 상황에서 득점 확률 예측이 평균적으로 맞는가'(그림 3의 보정) 정도이며, 이는 평균 수준의 정합성일 뿐 그 패스 하나의 가치가 +0.03이라는 증거가 아니다."]));
+body.push(P([B("③ 현재 데이터로는 불가. "), "한 패스가 '실제로 만든 가치'는 그 패스를 하지 않았을 때와의 차이(반사실)인데, 이는 관측되지 않는다. 한 번의 패스 뒤에는 득점했다/안 했다는 0/1 결과만 남으므로 +0.03 같은 연속값을 개별 행동 단위로 채점할 수 없다. 간접적으로 확인할 수 있는 것은 '모델이 비슷하게 평가한 행동들을 모았을 때 예측 확률과 실제 득점 비율이 평균적으로 맞는가' 정도이며, 이는 평균 수준의 정합성일 뿐 그 패스 하나의 가치가 +0.03이라는 증거가 아니다."]));
 
 // 문제 3
 body.push(H1("문제 3. 시각화: 1974 월드컵 네덜란드 2-0 브라질, 크루이프 발리골"));
@@ -232,7 +232,7 @@ body.push(P([B("결론: 레전드의 90분당 VAEP는 GOAT 논쟁의 '결정적 
   `크루이프의 ${f(S_C.vaep_per90)}는 '이 10경기에서, 2020년대 리그로 학습한 모델이 보기에 온 볼 공격 기여가 컸다'는 뜻이지 '호나우지뉴(${f(S_R.vaep_per90)})보다 위대하다'는 뜻이 아니다.`]));
 body.push(bullet([B("표본: "), `크루이프는 ${S_C.minutes}분(10경기), 그것도 결승·월드컵처럼 기록이 남은 경기만이다. 경기별 값이 ${f(worst.vaep_per90)}~${f(best.vaep_per90)}로 흩어져 있고 상위 3경기가 ${pct(100 * top3)}를 차지하며, 95% 구간 [${f(CI_C.ci_low)}, ${f(CI_C.ci_high)}]이 비교 대상과 겹친다. 숫자를 쓸 때는 구간과 경기 수를 함께 적어야 한다.`]));
 body.push(bullet([B("데이터의 시대 차이: "), `1970년대 경기는 남아 있는 영상을 나중에 코딩한 데이터라 경기당 행동 수(${f(DC.actions_per_game, 0)} vs ${f(DR.actions_per_game, 0)})와 패스 성공률이 다르다. 같은 플레이라도 기록되는 방식이 다를 수 있다.`]));
-body.push(bullet([B("모델의 외삽: "), `모델은 2020년대 리그로 학습했다. 득점 모델은 크루이프 경기에서도 쓸 만하지만(AUC ${f(MCs.auc)}) 현대 경기보다 변별력이 낮고, 실점 모델은 근거가 거의 없다(BSS ${f(MCc.BSS)}). 수비 가치는 비교에서 빼거나 따로 표시해야 한다.`]));
+body.push(bullet([B("모델의 외삽: "), `모델은 2020년대 리그로 학습했다. 득점 모델은 크루이프 경기에서도 쓸 만하지만(AUC ${f(MCs.auc)}) 현대 경기보다 변별력이 낮고, 실점 모델은 크루이프 경기의 실점 라벨이 약 ${Math.round(lab("Cruyff games").n_actions * lab("Cruyff games")["P(concedes)_%"] / 100)}개뿐이라 근거가 약하다(AUC ${f(MCc.auc)}). 수비 가치는 비교에서 빼거나 따로 표시해야 한다.`]));
 body.push(bullet([B("비교 맥락: "), "결승·월드컵 대 리그 경기, 상대 수준, 팀 전술(토털 풋볼과 2000년대 바르셀로나), 선수의 역할이 다르다. 시대 간 절댓값보다 같은 경기 안의 순위·백분위(표 6)처럼 시대 효과를 줄인 지표를 함께 제시해야 한다."]));
 body.push(bullet([B("VAEP의 구조: "), "온 볼 행동만 평가하고, 골이 된 슛에 가치가 몰리며(문제 3), 수비·오프 더 볼 기여를 거의 잡지 못한다. 공격형 선수에게 유리한 척도라는 점을 밝혀야 한다."]));
 body.push(new Paragraph({ spacing: { before: 200, after: 80 }, children: [B("행동 가치 모델 전반에 대한 생각")] }));
