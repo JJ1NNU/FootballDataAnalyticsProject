@@ -1,0 +1,12 @@
+# Python 3.13 (verified with 3.13.18). CPU environment for the GK sweeper study.
+# GPU (Kaggle) requirements are recorded separately in S10.
+kloppy==3.19.1
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.16.3
+pyarrow==26.0.1
+pygam==0.12.0
+statsmodels==0.15.0
+statsbombpy==1.22.0
+matplotlib==3.11.2
+pytest==9.1.1
