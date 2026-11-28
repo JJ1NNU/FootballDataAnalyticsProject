@@ -1,0 +1,643 @@
+{
+ "matches": {
+  "J03WMX": {
+   "match_id": "J03WMX",
+   "meta_pitch_xml": [
+    105.0,
+    68.0
+   ],
+   "pitch_kloppy": [
+    105.0,
+    68.0
+   ],
+   "fps": 25,
+   "tracking_orientation": "AWAY_HOME",
+   "teams": {
+    "home": "1. FC Köln",
+    "away": "FC Bayern München"
+   },
+   "starting_gk": {
+    "home": [
+     {
+      "player_id": "DFL-OBJ-0002HE",
+      "full_name": "M. Schwäbe",
+      "first_name": "Marvin",
+      "last_name": "Schwäbe",
+      "starting": true
+     }
+    ],
+    "away": [
+     {
+      "player_id": "DFL-OBJ-0002DR",
+      "full_name": "Y. Sommer",
+      "first_name": "Yann",
+      "last_name": "Sommer",
+      "starting": true
+     }
+    ]
+   },
+   "n_players_with_starting_position": 40,
+   "frames_total_kloppy": 145967,
+   "frames_alive": 85369,
+   "frames_22_plus_ball": 145967,
+   "frames_alive_22_plus_ball": 85369,
+   "frames_players_with_coords_hist": {
+    "22": 145967
+   },
+   "frames_missing_a_starting_gk": 0,
+   "raw_ball_frames": 145967,
+   "raw_ball_possession": {
+    "2": 71409,
+    "1": 74558
+   },
+   "raw_ball_status": {
+    "1": 85369,
+    "0": 60598
+   },
+   "event_orientation": "AWAY_HOME",
+   "events_total": 1789,
+   "passes_total": 984,
+   "passes_incomplete": 185,
+   "passes_incomplete_end_missing": 185,
+   "passes_complete_end_missing": 49,
+   "passes_result_none": 0
+  },
+  "J03WN1": {
+   "match_id": "J03WN1",
+   "meta_pitch_xml": [
+    105.0,
+    68.0
+   ],
+   "pitch_kloppy": [
+    105.0,
+    68.0
+   ],
+   "fps": 25,
+   "tracking_orientation": "AWAY_HOME",
+   "teams": {
+    "home": "VfL Bochum 1848",
+    "away": "Bayer 04 Leverkusen"
+   },
+   "starting_gk": {
+    "home": [
+     {
+      "player_id": "DFL-OBJ-0001I0",
+      "full_name": "Manuel Riemann",
+      "first_name": "Manuel",
+      "last_name": "Riemann-Lorenzen",
+      "starting": true
+     }
+    ],
+    "away": [
+     {
+      "player_id": "DFL-OBJ-0026NY",
+      "full_name": "L. Hrádecký",
+      "first_name": "Lukáš",
+      "last_name": "Hrádecký",
+      "starting": true
+     }
+    ]
+   },
+   "n_players_with_starting_position": 40,
+   "frames_total_kloppy": 141561,
+   "frames_alive": 68377,
+   "frames_22_plus_ball": 10616,
+   "frames_alive_22_plus_ball": 4321,
+   "frames_players_with_coords_hist": {
+    "21": 130945,
+    "22": 10616
+   },
+   "frames_missing_a_starting_gk": 0,
+   "raw_ball_frames": 141561,
+   "raw_ball_possession": {
+    "1": 68995,
+    "2": 72566
+   },
+   "raw_ball_status": {
+    "1": 68377,
+    "0": 73184
+   },
+   "event_orientation": "AWAY_HOME",
+   "events_total": 1429,
+   "passes_total": 728,
+   "passes_incomplete": 204,
+   "passes_incomplete_end_missing": 204,
+   "passes_complete_end_missing": 31,
+   "passes_result_none": 0
+  },
+  "J03WPY": {
+   "match_id": "J03WPY",
+   "meta_pitch_xml": [
+    105.0,
+    68.0
+   ],
+   "pitch_kloppy": [
+    105.0,
+    68.0
+   ],
+   "fps": 25,
+   "tracking_orientation": "AWAY_HOME",
+   "teams": {
+    "home": "Fortuna Düsseldorf",
+    "away": "1. FC Nürnberg"
+   },
+   "starting_gk": {
+    "home": [
+     {
+      "player_id": "DFL-OBJ-0028FW",
+      "full_name": "F. Kastenmeier",
+      "first_name": "Florian",
+      "last_name": "Kastenmeier",
+      "starting": true
+     }
+    ],
+    "away": [
+     {
+      "player_id": "DFL-OBJ-0001HW",
+      "full_name": "C. Mathenia",
+      "first_name": "Christian",
+      "last_name": "Mathenia",
+      "starting": true
+     }
+    ]
+   },
+   "n_players_with_starting_position": 40,
+   "frames_total_kloppy": 146211,
+   "frames_alive": 81460,
+   "frames_22_plus_ball": 146211,
+   "frames_alive_22_plus_ball": 81460,
+   "frames_players_with_coords_hist": {
+    "22": 146211
+   },
+   "frames_missing_a_starting_gk": 0,
+   "raw_ball_frames": 146211,
+   "raw_ball_possession": {
+    "1": 79194,
+    "2": 67017
+   },
+   "raw_ball_status": {
+    "1": 81460,
+    "0": 64751
+   },
+   "event_orientation": "AWAY_HOME",
+   "events_total": 1572,
+   "passes_total": 891,
+   "passes_incomplete": 166,
+   "passes_incomplete_end_missing": 166,
+   "passes_complete_end_missing": 26,
+   "passes_result_none": 0
+  },
+  "J03WOH": {
+   "match_id": "J03WOH",
+   "meta_pitch_xml": [
+    105.0,
+    68.0
+   ],
+   "pitch_kloppy": [
+    105.0,
+    68.0
+   ],
+   "fps": 25,
+   "tracking_orientation": "AWAY_HOME",
+   "teams": {
+    "home": "Fortuna Düsseldorf",
+    "away": "SSV Jahn Regensburg"
+   },
+   "starting_gk": {
+    "home": [
+     {
+      "player_id": "DFL-OBJ-0028FW",
+      "full_name": "F. Kastenmeier",
+      "first_name": "Florian",
+      "last_name": "Kastenmeier",
+      "starting": true
+     }
+    ],
+    "away": [
+     {
+      "player_id": "DFL-OBJ-002GNH",
+      "full_name": "D. Stojanovic",
+      "first_name": "Dejan",
+      "last_name": "Stojanovic",
+      "starting": true
+     }
+    ]
+   },
+   "n_players_with_starting_position": 39,
+   "frames_total_kloppy": 137214,
+   "frames_alive": 71945,
+   "frames_22_plus_ball": 137214,
+   "frames_alive_22_plus_ball": 71945,
+   "frames_players_with_coords_hist": {
+    "22": 137214
+   },
+   "frames_missing_a_starting_gk": 0,
+   "raw_ball_frames": 137214,
+   "raw_ball_possession": {
+    "2": 67752,
+    "1": 69462
+   },
+   "raw_ball_status": {
+    "1": 71945,
+    "0": 65269
+   },
+   "event_orientation": "AWAY_HOME",
+   "events_total": 1446,
+   "passes_total": 764,
+   "passes_incomplete": 176,
+   "passes_incomplete_end_missing": 176,
+   "passes_complete_end_missing": 21,
+   "passes_result_none": 0
+  },
+  "J03WQQ": {
+   "match_id": "J03WQQ",
+   "meta_pitch_xml": [
+    105.0,
+    68.0
+   ],
+   "pitch_kloppy": [
+    105.0,
+    68.0
+   ],
+   "fps": 25,
+   "tracking_orientation": "AWAY_HOME",
+   "teams": {
+    "home": "Fortuna Düsseldorf",
+    "away": "FC St. Pauli"
+   },
+   "starting_gk": {
+    "home": [
+     {
+      "player_id": "DFL-OBJ-0028FW",
+      "full_name": "F. Kastenmeier",
+      "first_name": "Florian",
+      "last_name": "Kastenmeier",
+      "starting": true
+     }
+    ],
+    "away": [
+     {
+      "player_id": "DFL-OBJ-0028LZ",
+      "full_name": "N. Vasilj",
+      "first_name": "Nikola",
+      "last_name": "Vasilj",
+      "starting": true
+     }
+    ]
+   },
+   "n_players_with_starting_position": 40,
+   "frames_total_kloppy": 142345,
+   "frames_alive": 84352,
+   "frames_22_plus_ball": 89356,
+   "frames_alive_22_plus_ball": 60580,
+   "frames_players_with_coords_hist": {
+    "21": 52989,
+    "22": 89356
+   },
+   "frames_missing_a_starting_gk": 0,
+   "raw_ball_frames": 142345,
+   "raw_ball_possession": {
+    "2": 74058,
+    "1": 68287
+   },
+   "raw_ball_status": {
+    "1": 84352,
+    "0": 57993
+   },
+   "event_orientation": "AWAY_HOME",
+   "events_total": 1658,
+   "passes_total": 925,
+   "passes_incomplete": 182,
+   "passes_incomplete_end_missing": 182,
+   "passes_complete_end_missing": 20,
+   "passes_result_none": 0
+  },
+  "J03WOY": {
+   "match_id": "J03WOY",
+   "meta_pitch_xml": [
+    105.0,
+    68.0
+   ],
+   "pitch_kloppy": [
+    105.0,
+    68.0
+   ],
+   "fps": 25,
+   "tracking_orientation": "AWAY_HOME",
+   "teams": {
+    "home": "Fortuna Düsseldorf",
+    "away": "F.C. Hansa Rostock"
+   },
+   "starting_gk": {
+    "home": [
+     {
+      "player_id": "DFL-OBJ-0028FW",
+      "full_name": "F. Kastenmeier",
+      "first_name": "Florian",
+      "last_name": "Kastenmeier",
+      "starting": true
+     }
+    ],
+    "away": [
+     {
+      "player_id": "DFL-OBJ-002FZB",
+      "full_name": "M. Kolke",
+      "first_name": "Markus",
+      "last_name": "Kolke",
+      "starting": true
+     }
+    ]
+   },
+   "n_players_with_starting_position": 40,
+   "frames_total_kloppy": 142536,
+   "frames_alive": 76286,
+   "frames_22_plus_ball": 142536,
+   "frames_alive_22_plus_ball": 76286,
+   "frames_players_with_coords_hist": {
+    "22": 142536
+   },
+   "frames_missing_a_starting_gk": 0,
+   "raw_ball_frames": 142536,
+   "raw_ball_possession": {
+    "2": 71313,
+    "1": 71223
+   },
+   "raw_ball_status": {
+    "0": 66250,
+    "1": 76286
+   },
+   "event_orientation": "AWAY_HOME",
+   "events_total": 1562,
+   "passes_total": 867,
+   "passes_incomplete": 224,
+   "passes_incomplete_end_missing": 224,
+   "passes_complete_end_missing": 26,
+   "passes_result_none": 0
+  },
+  "J03WR9": {
+   "match_id": "J03WR9",
+   "meta_pitch_xml": [
+    105.0,
+    68.0
+   ],
+   "pitch_kloppy": [
+    105.0,
+    68.0
+   ],
+   "fps": 25,
+   "tracking_orientation": "HOME_AWAY",
+   "teams": {
+    "home": "Fortuna Düsseldorf",
+    "away": "1. FC Kaiserslautern"
+   },
+   "starting_gk": {
+    "home": [
+     {
+      "player_id": "DFL-OBJ-0028FW",
+      "full_name": "F. Kastenmeier",
+      "first_name": "Florian",
+      "last_name": "Kastenmeier",
+      "starting": true
+     }
+    ],
+    "away": [
+     {
+      "player_id": "DFL-OBJ-00003W",
+      "full_name": "A. Luthe",
+      "first_name": "Andreas",
+      "last_name": "Luthe",
+      "starting": true
+     }
+    ]
+   },
+   "n_players_with_starting_position": 40,
+   "frames_total_kloppy": 146810,
+   "frames_alive": 85316,
+   "frames_22_plus_ball": 146810,
+   "frames_alive_22_plus_ball": 85316,
+   "frames_players_with_coords_hist": {
+    "22": 146810
+   },
+   "frames_missing_a_starting_gk": 0,
+   "raw_ball_frames": 146810,
+   "raw_ball_possession": {
+    "1": 79435,
+    "2": 67375
+   },
+   "raw_ball_status": {
+    "1": 85316,
+    "0": 61494
+   },
+   "event_orientation": "HOME_AWAY",
+   "events_total": 1508,
+   "passes_total": 903,
+   "passes_incomplete": 175,
+   "passes_incomplete_end_missing": 175,
+   "passes_complete_end_missing": 29,
+   "passes_result_none": 0
+  }
+ },
+ "goalkeepers": {
+  "rows": [
+   {
+    "match_id": "J03WMX",
+    "side": "home",
+    "team": "1. FC Köln",
+    "n_gk": 1,
+    "full_name": "M. Schwäbe",
+    "first_name": "Marvin",
+    "last_name": "Schwäbe",
+    "expected_last_name": "Schwäbe",
+    "match": true
+   },
+   {
+    "match_id": "J03WMX",
+    "side": "away",
+    "team": "FC Bayern München",
+    "n_gk": 1,
+    "full_name": "Y. Sommer",
+    "first_name": "Yann",
+    "last_name": "Sommer",
+    "expected_last_name": "Sommer",
+    "match": true
+   },
+   {
+    "match_id": "J03WN1",
+    "side": "home",
+    "team": "VfL Bochum 1848",
+    "n_gk": 1,
+    "full_name": "Manuel Riemann",
+    "first_name": "Manuel",
+    "last_name": "Riemann-Lorenzen",
+    "expected_last_name": "Riemann",
+    "match": false
+   },
+   {
+    "match_id": "J03WN1",
+    "side": "away",
+    "team": "Bayer 04 Leverkusen",
+    "n_gk": 1,
+    "full_name": "L. Hrádecký",
+    "first_name": "Lukáš",
+    "last_name": "Hrádecký",
+    "expected_last_name": "Hrádecký",
+    "match": true
+   },
+   {
+    "match_id": "J03WPY",
+    "side": "home",
+    "team": "Fortuna Düsseldorf",
+    "n_gk": 1,
+    "full_name": "F. Kastenmeier",
+    "first_name": "Florian",
+    "last_name": "Kastenmeier",
+    "expected_last_name": "Kastenmeier",
+    "match": true
+   },
+   {
+    "match_id": "J03WPY",
+    "side": "away",
+    "team": "1. FC Nürnberg",
+    "n_gk": 1,
+    "full_name": "C. Mathenia",
+    "first_name": "Christian",
+    "last_name": "Mathenia",
+    "expected_last_name": "Mathenia",
+    "match": true
+   },
+   {
+    "match_id": "J03WOH",
+    "side": "home",
+    "team": "Fortuna Düsseldorf",
+    "n_gk": 1,
+    "full_name": "F. Kastenmeier",
+    "first_name": "Florian",
+    "last_name": "Kastenmeier",
+    "expected_last_name": "Kastenmeier",
+    "match": true
+   },
+   {
+    "match_id": "J03WOH",
+    "side": "away",
+    "team": "SSV Jahn Regensburg",
+    "n_gk": 1,
+    "full_name": "D. Stojanovic",
+    "first_name": "Dejan",
+    "last_name": "Stojanovic",
+    "expected_last_name": "Stojanovic",
+    "match": true
+   },
+   {
+    "match_id": "J03WQQ",
+    "side": "home",
+    "team": "Fortuna Düsseldorf",
+    "n_gk": 1,
+    "full_name": "F. Kastenmeier",
+    "first_name": "Florian",
+    "last_name": "Kastenmeier",
+    "expected_last_name": "Kastenmeier",
+    "match": true
+   },
+   {
+    "match_id": "J03WQQ",
+    "side": "away",
+    "team": "FC St. Pauli",
+    "n_gk": 1,
+    "full_name": "N. Vasilj",
+    "first_name": "Nikola",
+    "last_name": "Vasilj",
+    "expected_last_name": "Vasilj",
+    "match": true
+   },
+   {
+    "match_id": "J03WOY",
+    "side": "home",
+    "team": "Fortuna Düsseldorf",
+    "n_gk": 1,
+    "full_name": "F. Kastenmeier",
+    "first_name": "Florian",
+    "last_name": "Kastenmeier",
+    "expected_last_name": "Kastenmeier",
+    "match": true
+   },
+   {
+    "match_id": "J03WOY",
+    "side": "away",
+    "team": "F.C. Hansa Rostock",
+    "n_gk": 1,
+    "full_name": "M. Kolke",
+    "first_name": "Markus",
+    "last_name": "Kolke",
+    "expected_last_name": "Kolke",
+    "match": true
+   },
+   {
+    "match_id": "J03WR9",
+    "side": "home",
+    "team": "Fortuna Düsseldorf",
+    "n_gk": 1,
+    "full_name": "F. Kastenmeier",
+    "first_name": "Florian",
+    "last_name": "Kastenmeier",
+    "expected_last_name": "Kastenmeier",
+    "match": true
+   },
+   {
+    "match_id": "J03WR9",
+    "side": "away",
+    "team": "1. FC Kaiserslautern",
+    "n_gk": 1,
+    "full_name": "A. Luthe",
+    "first_name": "Andreas",
+    "last_name": "Luthe",
+    "expected_last_name": "Luthe",
+    "match": true
+   }
+  ],
+  "one_gk_per_team_match": true,
+  "n_team_matches": 14,
+  "n_distinct_gk": 10,
+  "all_names_match": false
+ },
+ "plan_one_match_frames": [
+  "J03WMX"
+ ],
+ "statsbomb": {
+  "shots_rows": 100864,
+  "shots_columns": [
+   "match_id",
+   "competition_id",
+   "season_id",
+   "team",
+   "period",
+   "minute",
+   "second",
+   "x",
+   "y",
+   "xg",
+   "outcome",
+   "goal",
+   "shot_type",
+   "body_part",
+   "play_pattern",
+   "gk_x",
+   "gk_y",
+   "gk_dist_goal",
+   "has_freeze",
+   "score_diff"
+  ],
+  "shots_required_columns_missing": [],
+  "matches_epl_1516": 380,
+  "matches_epl_1516_labels": [
+   [
+    "Premier League",
+    "2015/2016"
+   ]
+  ],
+  "event_files": 380,
+  "event_files_parse_ok": 380,
+  "event_rows_total": 1313773,
+  "event_bytes_total": 1129261832,
+  "event_ids_equal_matches_csv": true
+ }
+}
